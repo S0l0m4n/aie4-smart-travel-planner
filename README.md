@@ -51,3 +51,21 @@ An LLM will assess each city in the dataset and apply one of the following **lab
 * **Family:** family_friendly_score is the dominant feature with high safety. Easy and safe for kids.
 
 In case of a tiebreaker, when multiple styles apply, pick what a travel magazine would file it under.
+
+Database
+--------
+We create the Postgres database from the Docker container as follows:
+```
+docker run -d \
+  --name travel-postgres \
+  -p 5432:5432 \
+  -e POSTGRES_PASSWORD=secret \
+  -e POSTGRES_DB=travel_planner \
+  -v travel_data:/var/lib/postgresql/data \
+  pgvector/pgvector:pg16
+```
+
+Afterwards, we **run** it with:
+```
+docker start travel-postgres
+```
