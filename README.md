@@ -2,4 +2,52 @@ README
 ======
 A smart travel planner for suggesting a trip plan according to the user's specific request.
 
-A friend texts you: "I have two weeks off in July and around $1,500. I want somewhere warm, not too touristy, and I like hiking. Where should I go, when should I book, and what should I expect?" Build the system that answers them. An agent that figures out what kind of trip the person actually wants, pulls up what it knows about destinations matching that vibe, checks what flights and weather actually look like right now, and delivers a real plan to a real channel. You will compose everything from the past three weeks into one system that could plausibly help someone book a trip tomorrow. This week is the difficult one. The brief tells you what must be true; you decide how. If you find yourself waiting for a step- by-step, that is the assignment showing you where you need to grow. Two things matter equally: that the AI works, and that the code around it is built like an engineer built it. We will read your code with both eyes open. Junior-level habits — globals, blocking I/O, copy-pasted clients in every function, magic strings — will cost you here.
+Suppose a friend texts you: "I have two weeks off in July and around $1,500. I want somewhere warm, not too touristy, and I like hiking. Where should I go, when should I book, and what should I expect?"
+
+This system answers that quesiton. An agent that figures out what kind of trip the person actually wants, pulls up what it knows about destinations matching that vibe, checks live conditions, and delivers a real plan to a real channel.
+
+Components
+----------
+1. **ML classifier:** Build a dataset of 200 travel locations and classify with a trained ML model them according to these categories:
+    - *Adventure*
+    - *Budget*
+    - *Culture*
+    - *Family*
+    - *Luxury*
+    - *Relaxation*
+2. **RAG tool:** Retrieve relevant destination content about 10-15 cities in the dataset. These are the *only* cities the planner can recommend in response to the user's prompt.
+3. **Agent with three tools:** Destination classifier, RAG retrieval tool, live conditions API (for weather).
+4. **Two models, one agent:** Use a weak model for tool arguments and RAG, a strong one for the final synthesis.
+5. **Persistence:** One Postgres database for everything, including users and embeddings (pgvector). Use SQLAlchemy for relational models.
+6. **Auth:** User signup and login
+7. **React frontend:** User interface
+8. **Webhook delivery:** Send the trip plan to a real channel, e.g. Discord, Slack, email.
+9. **Docker:** Containerise the whole stack (frontend, backend, Postgres database).
+
+Dataset
+-------
+### Classifying features
+We will prepare a dataset of 200 likely cities and judge them on the following features:
+1. **hiking_score** (1–10): quality and quantity of hiking, trekking, and trail-based outdoor activities
+2. **beach_score** (1–10): quality, quantity, and accessibility of beaches
+3. **cultural_sites_score** (1–10): museums, historical landmarks, architecture, local traditions and heritage
+4. **nightlife_score** (1–10): bars, clubs, live music, entertainment scene
+5. **family_friendly_score** (1–10): kid-oriented attractions, ease of travel with children, general safety for families
+6. **luxury_infrastructure_score** (1–10): high-end hotels, fine dining, spas, exclusive experiences
+7. **avg_accom_cost** (USD):  average nightly accommodation cost, mid-range
+8. **avg_daily_expense** (USD): food, transport, activities per day, excluding accommodation
+9. **safety_score** (1–10): personal safety for tourists, low crime, political stability
+10. **remoteness_score** (1–10): how off-the-beaten-path it is, inverse of mass tourism volume
+
+The dataset is `data/destinations.csv`.
+
+### Labelling rubric
+An LLM will assess each city in the dataset and apply one of the following **labels** to it:
+* **Adventure:** hiking_score is the dominant feature. Remote. Defined by active outdoor exploration.
+* **Relaxation:** beach_score is the dominant feature. Nightlife not excessive. Defined by unwinding.
+* **Culture:** cultural_sites_score is the dominant feature. Defined by museums, history, heritage.
+* **Budget:** accommodation is reasonable, daily expenses are low. No single other feature overwhelmingly dominates.
+* **Luxury:** high luxury_infrastructure_score and high accommodation cost. Defined by premium experiences.
+* **Family:** family_friendly_score is the dominant feature with high safety. Easy and safe for kids.
+
+In case of a tiebreaker, when multiple styles apply, pick what a travel magazine would file it under.
