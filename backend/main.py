@@ -28,4 +28,5 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(title="Smart Travel Planner", lifespan=lifespan)
+
 app.include_router(chat_router, prefix="/api")
