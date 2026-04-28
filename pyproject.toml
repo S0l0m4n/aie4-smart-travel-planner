@@ -1,0 +1,33 @@
+[project]
+name = "smart-travel-planner"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "sqlalchemy[asyncio]",
+    "asyncpg",
+    "pgvector",
+    "pydantic-settings",
+    "structlog",
+    "httpx",
+    "tenacity",
+    "langgraph",
+    "langchain",
+    "langchain-openai",
+    "langchain-groq",
+    "sentence-transformers",
+    "scikit-learn",
+    "joblib",
+]
+
+[tool.uv]
+package = false
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
