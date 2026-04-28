@@ -1,33 +1,27 @@
 [project]
 name = "smart-travel-planner"
 version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "fastapi",
-    "uvicorn[standard]",
-    "sqlalchemy[asyncio]",
-    "asyncpg",
-    "pgvector",
-    "pydantic-settings",
-    "structlog",
-    "httpx",
-    "tenacity",
-    "langgraph",
-    "langchain",
-    "langchain-openai",
-    "langchain-groq",
-    "sentence-transformers",
-    "scikit-learn",
-    "joblib",
+    "asyncpg>=0.31.0",
+    "chromadb>=1.5.8",
+    "fastapi>=0.136.0",
+    "groq>=1.2.0",
+    "httpx>=0.28.1",
+    "joblib>=1.5.3",
+    "pandas>=3.0.2",
+    "pgvector>=0.4.2",
+    "pydantic-settings>=2.14.0",
+    "python-dotenv>=1.2.2",
+    "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.4.1",
+    "sqlalchemy[asyncio]>=2.0.49",
+    "structlog>=25.5.0",
+    "torch>=2.11.0",
+    "uvicorn>=0.45.0",
 ]
 
-[tool.uv]
-package = false
-
 [[tool.uv.index]]
-name = "pytorch-cpu"
 url = "https://download.pytorch.org/whl/cpu"
-explicit = true
-
-[tool.uv.sources]
-torch = { index = "pytorch-cpu" }
