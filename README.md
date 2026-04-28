@@ -1,2 +1,5 @@
-# aie4-smart-travel-planner
+README
+======
 A smart travel planner for suggesting a trip plan according to the user's specific request.
+
+A friend texts you: "I have two weeks off in July and around $1,500. I want somewhere warm, not too touristy, and I like hiking. Where should I go, when should I book, and what should I expect?" Build the system that answers them. An agent that figures out what kind of trip the person actually wants, pulls up what it knows about destinations matching that vibe, checks what flights and weather actually look like right now, and delivers a real plan to a real channel. You will compose everything from the past three weeks into one system that could plausibly help someone book a trip tomorrow. This week is the difficult one. The brief tells you what must be true; you decide how. If you find yourself waiting for a step- by-step, that is the assignment showing you where you need to grow. Two things matter equally: that the AI works, and that the code around it is built like an engineer built it. We will read your code with both eyes open. Junior-level habits — globals, blocking I/O, copy-pasted clients in every function, magic strings — will cost you here.
