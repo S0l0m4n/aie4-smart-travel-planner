@@ -31,3 +31,4 @@ Do not run any script without expicit permission first. In particular, do not ru
 - **Structured logging.** structlog or JSON stdlib logger. No print().
 - **ML Pipeline.** Preprocessing inside the sklearn Pipeline. Never scale/transform outside it. Pin all seeds.
 - **Agent flow is sequential, not ReAct.** parse → classify → rewrite → retrieve → live_conditions → synthesize. Only branching: ask followup if required fields are missing after parse.
+- **Data files.** Do not open CSV or large data files, notebooks etc. without asking for express permission first. You shouldn't need them.
