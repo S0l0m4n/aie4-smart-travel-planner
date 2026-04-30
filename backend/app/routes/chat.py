@@ -1,12 +1,13 @@
-"""Chat endpoint — runs the sequential travel agent."""
+"""Chat endpoint — kicks off the travel agent upon user's input."""
+
 from __future__ import annotations
 
 from typing import Annotated
 
 from fastapi import APIRouter, Depends
 
-from app.agent.runner import TravelAgentRunner
-from app.deps import get_runner
+from app.deps import get_llm
+from app.prompts.chat import CHAT_SYSTEM_PROMPT
 from app.schemas.chat import ChatRequest, ChatResponse
 
 router = APIRouter(tags=["chat"])
@@ -14,8 +15,9 @@ router = APIRouter(tags=["chat"])
 
 @router.post("/chat", response_model=ChatResponse)
 async def chat(
-    body: ChatRequest,
-    runner: Annotated[TravelAgentRunner, Depends(get_runner)],
+    message: ChatRequest,
+    llm: Annotated[LLMService, Depends(get_llm)],
 ) -> ChatResponse:
-    result = await runner.run(message=body.message)
-    return ChatResponse(**result)
+    """Call the LLM with the user's description of the desired trip."""
+    result = await llm.call(message, CHAT_SYSTEM_PROMPT)
+    return ChatResponse(result)

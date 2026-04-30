@@ -22,51 +22,49 @@ from app.database import Base
 from app.logging_config import configure_logging, get_logger
 import app.models  # noqa: F401 — registers models with Base.metadata
 
+from app.services.llm import LLMService
+from app.tools.registry import ToolRegistry
+
 
 @dataclass
 class AppState:
     """Process-wide singletons attached to ``app.state.app_state``."""
 
     settings: Settings
-    runner: TravelAgentRunner
+    llm: LLMService
+    registry: ToolRegistry
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncIterator[None]:
+   """Startup/shutdown context for the FastAPI application.
+
+    Yields control back to FastAPI once initialisation is done; the code
+    after the `yield` runs when the server is shutting down (e.g. SIGTERM
+    in production, Ctrl-C locally).
+
+    Args:
+        app: The FastAPI application; we attach state to `app.state`.
+
+    Yields:
+        Nothing — the body of the contextmanager is the running app.
+    """
     settings = get_settings()
     configure_logging(level=settings.log_level, json_output=settings.log_json)
     log = get_logger(__name__)
     log.info("startup", cheap_model=settings.cheap_model_name, strong_model=settings.strong_model_name)
 
-    engine = create_async_engine(settings.database_url, echo=False)
-    try:
-        async with engine.begin() as conn:
-            await conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
-            await conn.run_sync(Base.metadata.create_all)
-    except ConnectionRefusedError:
-        log.error("Couldn't connect to the database, have you started the Postgres service?")
-    session_factory = async_sessionmaker(engine, expire_on_commit=False)
+    # Build collaborators
+    llm = LLMService(settings)
+    registry = ToolRegistry.build(settings)
 
-    classifier = joblib.load(settings.ml_model_path)
-    embed_model = SentenceTransformer("all-MiniLM-L6-v2")
-
-    cheap_llm = ChatGroq(api_key=settings.api_key, model=settings.cheap_model_name, temperature=0.3)
-    strong_llm = ChatGroq(api_key=settings.api_key, model=settings.strong_model_name, temperature=0.3)
-
-    runner = TravelAgentRunner(
-        settings=settings,
-        classifier=classifier,
-        embed_model=embed_model,
-        cheap_llm=cheap_llm,
-        strong_llm=strong_llm,
-        session_factory=session_factory,
-    )
-
-    app.state.app_state = AppState(settings=settings, runner=runner)
+    app.state.app_state = AppState(settings=settings, llm=llm, registry=registry)
 
     log.info("startup.complete")
     try:
         yield
     finally:
+        # The `finally` block ensures we closes the HTTP pool even if there is
+        # an unhandled error elsewhere
         log.info("shutdown")
-        await engine.dispose()
+        await llm.aclose()

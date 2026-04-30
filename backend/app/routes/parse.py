@@ -15,13 +15,24 @@ router = APIRouter(tags=["parse"])
 
 
 @router.post("/parse", response_model=DestinationFeatures)
-async def parse(request: ChatRequest):
+async def parse(
+        request: ChatRequest,
+        llm: Annotated[LLMService, Depends(get_llm)]
+        ) -> DestinationFeatures:
     """Extrace the features specifying the user's description of their ideal
     travel destination.
+
+    Args:
+        request: User input text (`ChatRequest` type)
+        llm: Injected shared `LLMService`
+
+    Returns:
+        A `DestinationFeatures` object estimating the feature scores for the
+        user's described location.
     """
-    response = llm.call(
+    response = await llm.call(
         request.text,
-        PARSE_SYSTEM_PROMPT,
+        system_prompt=PARSE_SYSTEM_PROMPT,
         response_model=DestinationFeatures,
     )
 

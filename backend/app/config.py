@@ -39,16 +39,39 @@ class Settings(BaseSettings):
     # ensures the matching credential block is also populated.
     llm_provider: Literal["gemini", "openai", "groq"] = "groq"
 
+    gemini_model = "gemini-2.5-flash"
+    openai_model = "gpt-4o-mini"
+    groq_model = "llama-3.1-8b-instant"
+
     database_url: str = ""
     api_key: str = ""
 
     cheap_model_name: str = "llama-3.1-8b-instant"
     strong_model_name: str = "llama-3.3-70b-versatile"
 
+    # --- ML model ----------------------------------------------------
     ml_model_path: Path = Path("app/ml/classifier.joblib")
 
+    # --- runtime -----------------------------------------------------
+
+    # --- safety ------------------------------------------------------
+
+    # --- observability -----------------------------------------------
     log_level: str = "INFO"
     log_json: bool = True
+
+    # --- caching -----------------------------------------------------
+
+    # --- storage paths -----------------------------------------------
+    # Defaults are derived from PROJECT_ROOT so the app finds its data
+    # files no matter what the current working directory is.
+    knowledge_data_path: Path = Field(
+        default=PROJECT_ROOT / "data" / "raw-wikivoyage",
+        description="Path to the scraped data from Wikivoyage on various
+        destinations, stored as text files."
+    )
+
+    # -----------------------------------------------------------------
 
     @model_validator(mode="after")
     def _resolve_api_key(self) -> Settings:
@@ -62,6 +85,18 @@ class Settings(BaseSettings):
         if not self.database_url:
             raise ValueError("DATABASE_URL is required but not set.")
         return self
+
+    def model_name(self) -> str:
+        """Return the provider-specific model identifier currently in use.
+
+        Returns:
+            The model name for OpenAI / Gemini / Groq.
+        """
+        return {
+            "gemini": self.gemini_model,
+            "openai": self.openai_model,
+            "groq": self.groq_model,
+        }[self.llm_provider]
 
 
 @lru_cache(maxsize=1)
