@@ -1,6 +1,8 @@
 import numpy as np
 from pydantic import BaseModel, Field
 
+from app.schemas import DestinationFeatures
+
 FEATURE_ORDER = [
     "hiking_score",
     "beach_score",
@@ -13,19 +15,6 @@ FEATURE_ORDER = [
     "safety_score",
     "remoteness_score",
 ]
-
-
-class DestinationFeatures(BaseModel):
-    hiking_score: float = Field(ge=1, le=10)
-    beach_score: float = Field(ge=1, le=10)
-    cultural_sites_score: float = Field(ge=1, le=10)
-    nightlife_score: float = Field(ge=1, le=10)
-    family_friendly_score: float = Field(ge=1, le=10)
-    luxury_infrastructure_score: float = Field(ge=1, le=10)
-    avg_accom_cost: float = Field(ge=0)
-    avg_daily_expense: float = Field(ge=0)
-    safety_score: float = Field(ge=1, le=10)
-    remoteness_score: float = Field(ge=1, le=10)
 
 
 def classify_travel_style(features: DestinationFeatures, classifier) -> str:

@@ -13,7 +13,7 @@ When I ask you a question in VS Code, I want you to directly answer it, not just
 
 Try to keep Git diffs minimal between commits. Only change something that is working when you need to change it to support the new feature, or if the current way of doing it is dragging us down or a much better solution is available.
 
-Never end a code file, e.g. `*.py`, with an empty line.
+Never end a code file, e.g. `*.py`, with an empty line (but add a newline character at the end of the last line).
 
 Do not run any script without expicit permission first. In particular, do not run any script that you just coded; let me review it first outside of our chat.
 
