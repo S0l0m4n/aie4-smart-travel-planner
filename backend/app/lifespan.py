@@ -9,8 +9,6 @@ os.environ["HF_HUB_OFFLINE"] = "1"
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 from dataclasses import dataclass
-from pathlib import Path
-
 import joblib
 from fastapi import FastAPI
 from langchain_groq import ChatGroq
@@ -23,8 +21,6 @@ from app.config import Settings, get_settings
 from app.database import Base
 from app.logging_config import configure_logging, get_logger
 import app.models  # noqa: F401 — registers models with Base.metadata
-
-_CLASSIFIER_PATH = Path(__file__).parent / "ml" / "classifier.joblib"
 
 
 @dataclass
@@ -51,7 +47,7 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         log.error("Couldn't connect to the database, have you started the Postgres service?")
     session_factory = async_sessionmaker(engine, expire_on_commit=False)
 
-    classifier = joblib.load(_CLASSIFIER_PATH)
+    classifier = joblib.load(settings.ml_model_path)
     embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 
     cheap_llm = ChatGroq(api_key=settings.api_key, model=settings.cheap_model_name, temperature=0.3)

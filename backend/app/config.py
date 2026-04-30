@@ -45,6 +45,8 @@ class Settings(BaseSettings):
     cheap_model_name: str = "llama-3.1-8b-instant"
     strong_model_name: str = "llama-3.3-70b-versatile"
 
+    ml_model_path: Path = Path("app/ml/classifier.joblib")
+
     log_level: str = "INFO"
     log_json: bool = True
 
