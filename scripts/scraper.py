@@ -3,9 +3,9 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 DESTINATIONS = {
-    "Tbilisi", "Bali", "Rome", "Nepal", "Tokyo",
-    "Cancún", "Paris", "Marrakech", "Reykjavik",
-    "Bangkok", "Cape_Town", "Zurich", "Cartagena",
+    "Bali", "Beirut", "Rome", "Kathmandu", "Tokyo",
+    "Cancún", "Reykjavík", "Sydney", "Bangkok", "Cape_Town",
+    "Kotor", "Dubai", "Riga", "Hvar", "Madeira", "Monaco"
 }
 
 OUTPUT_DIR = Path("data/raw_wikivoyage")
