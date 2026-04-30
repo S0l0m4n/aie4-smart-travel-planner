@@ -1,0 +1,884 @@
+{{pagebanner|Monaco banner1.jpg|origin=0,0.5}}
+
+The '''Principality of Monaco''' ([[French phrasebook|French]]: ''Principauté de Monaco'') is a wealthy city-state on the Mediterranean Sea, bounded by the [[French Riviera]]. Though tiny, the country is packed with entertainment for those with money to burn: think yachts and casinos, plus the annual Formula 1 Grand Prix.
+
+==Understand==
+{{quickbar|location=LocationMonaco.png|currency=Euro (EUR)}}
+This is the second smallest independent state in the world (after the [[Rome/Vatican|Vatican]]) and is entirely urban. '''Monte Carlo''' is not the capital of '''Monaco''' but a government district. The country is divided into nine sectors: Monaco-Ville (the old city), the Condamine (port quarter), Monte-Carlo (business and recreation) and Fontvieille (recreation, second port for smaller boats and light industry) are the most well-known among them.
+
+With no natural resources to exploit other than its location and climate, the principality has become a resort for tourists and a tax haven for wealthy people. Monaco is six times the size of the Vatican and the world's most densely populated country. While its borders have not moved since 1861 (when it lost over 80% of its territory to France), Monaco has still grown its territory by creating artificial land from the sea, which is how the area Fontvielle came to be. Its size is smaller than [[Manhattan/Central Park|Central Park]].
+
+===Tourist information ===
+* {{listing
+| name= Visit Monaco| alt= | url=https://www.visitmonaco.com/  | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2024-01-30
+| content=Tourist information website.
+}}
+* {{listing
+| name=Office of Tourism | alt= | url= | email=
+| address=2a boulevard des Moulins, Monte-Carlo | lat= | long= | directions=
+| phone= | tollfree=
+| hours=M-Sa 09:30-17:00 | price=
+| wikidata=
+| lastedit=2024-01-30
+| content=
+}} 
+* {{listing
+| name=Information Desk | alt= | url= | email=
+| address=Place Sainte-Dévote / SNCF railway station - 2nd floor, Monte-Carlo | lat= | long= | directions=
+| phone= | tollfree=
+| hours=M-Sa 09:00-17:00 | price=
+| wikidata=
+| lastedit=2024-01-30
+| content=
+}}
+
+===Read===
+* ''Rainier and Grace'', republished as ''Grace of Monaco'', by Jeffrey Robinson. An account of the lives of Prince Rainier and Princess Grace of Monaco, intertwined with the history of the country. The author knew Rainier and Grace personally, and he interviewed members of the royal family for the book.
+
+==Talk==
+{{seealso|French phrasebook}}
+
+French is the official and most frequently used language. Monegasque, the historic language of the native populace, is offered (but seldom taught) in schools, but rarely used outside of official documents and street signs. Due to Monaco's status as a destination for wealthy visitors, English is widely understood. Other languages that are commonly spoken are Italian (many jobs in Monaco require a solid knowledge of Italian), German, and Russian.
+
+==Get in==
+Although Monaco is not part of the [[Schengen Area]], it has open borders with [[France]], so it can for all practical purposes be considered part of it. If you want a passport stamp, you can queue for one at the '''[https://www.mairie.mc/en Mairie de Monaco]'''. There is border control for arriving boats from outside the Schengen Area.
+
+If you want to stay for more than 90 days, you will need to obtain a residence permit.
+
+Monaco does not issue its own visas, and instead accepts a Schengen visa for entry. If you plan to visit only Monaco and are entering by boat directly from outside the Schengen Area, you will need to apply for a Schengen visa from a French diplomatic mission (if one is required for your nationality).
+
+===By plane===
+The nearest airport is at [[Nice]],  {{marker|type=go|name=Aéroport Nice Côte d'Azur|url=http://en.nice.aeroport.fr/|lat=43.665124|long=7.212761|image=Nice airport.jpg}} ({{IATA|NCE}}) in [[Alpes-Maritimes]], which is around 40 km (25 mi) away from the city centre. It receives daily flights from nearly all of Europe's main cities, such as [[London]] and [[Paris]].
+
+E-hailing from the airport to Monaco is available for example by Uber and Bolt. For the way back to the airport check the [[Monaco#By e-hailing|e-hailing section]].
+
+Taxis are always available outside the terminal buildings, but make sure a fee is agreed in advance or the meter is switched on at the start of the journey, as shady taxi drivers are notorious for charging tourists whatever they see fit.
+
+You can take a tram from the airport to Grand Arénas and change there to the train to Monaco for about €6 (Mar 2024).
+
+An [http://www.niceairportxpress.com/ express shuttle], route 80, links the Nice Côte d'Azur Airport and [[Menton]] with multiple stops near all major hotels throughout Monaco, not just the ward of Monte Carlo. A bus leaves every half hour and a single ticket costs €19.50 (Mar 2024).
+
+=== By helicopter transfer ===
+[[File:Aerial_view_of_Monaco_at_dusk.jpg|thumb|300px|Monaco at dusk]]
+* {{go
+| name=Monacair | alt= | url=https://monacair.mc/ | email=
+| address=Heliport de Monaco, Av. des Ligures | lat=43.72568 | long=7.41915 | directions=
+| phone=+377 97973900 | tollfree=
+| hours= | price=Rates start from €210/person for one-way transfers and can go up to €11,600 for a private twin-engine helicopter, which can seat up to 6 passenger. During major events this price can increase significantly
+| image=Heliport Monaco 2.jpg
+| lastedit=2022-11-13
+| content=The sole operator of regular helicopter transfers between Nice Airport and the Monaco Heliport. After collecting your luggage at the Nice airport, present yourself at the Monacair reception desks (in terminals 1 and 2). A ground crew will carry your luggage and drive you to the heliport. The flight along the coast is beautiful and only lasts 8 minutes. When arriving at the Monaco heliport along the water's edge, a chauffeur will take you directly to your hotel. When leaving Monaco, a partnership with airlines allows for a direct transfer to the boarding gate with your cabin luggage. Check with the company if these benefits are applicable to your airline.
+}}
+
+===By train===
+The train stopping in Monaco operates along the coast from [[Cannes]] in France to [[Ventimiglia]] in Italy. The train also stops for example in [[Menton]], [[Nice]] and [[Antibes]] and is run by SNCF. There are 2-4 services per hour. There are also occasional high-speed TGV services (via Nice to Paris, 6 hr 30 min). The sometimes still mentioned Intercity/Thello services to Italy no longer exist.
+
+From [[Genoa]] and [[Milano]] you can take a direct train to Ventimiglia and change there to the train to Monaco. In Ventimiglia, it is easier not to use the Trenitalia counters or machines. Go to the travel agency (the only one) inside the station, which is marked with the sign of SNCF (French Railways). Return tickets not tied to a specific train are also available. Remember to validate your tickets just before boarding using the machines on the platforms.
+
+* {{go
+| name=Monaco-Monte-Carlo railway station | alt=Gare de Monaco-Monte-Carlo | url=https://www.garesetconnexions.sncf/fr/gare/frxmm/monaco-monte-carlo | email=
+| address=Place Sainte Dévote | lat=43.738234 | long=7.419592 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Gare de Monaco-Monte-Carlo | image=Gare de Monaco - Quai.jpg | wikidata=Q801195
+| lastedit=2022-09-18
+| content=The principality's only railway station and operated by the French railway company [http://www.voyages-sncf.com SNCF]. It is about 300 m back from Port Hercule, the layout is somewhat confusing as the station has been built underground with an adjacent huge parking garage - the main entrance is by elevator from "above". There are ticket vending machines and few food outlets, including a Starbucks.
+}}
+
+===By car===
+Monaco is easily accessed by its land borders from France or Italy by a network of highways, most commonly used of which is the A8 which runs west from Monte Carlo to Nice and Marseilles, and east towards the Italian border.
+
+Between Nice and Monaco, there are also three more scenic roads: the Basse Corniche (Low Coast-Road - Highway 98), along the sea, the Moyenne Corniche (Middle Coast Road - Highway 7), going through Eze-Village, and the Grande Corniche (Great Coast Road), going through La Turbie and Col d'Eze (Eze Pass).  All are pretty drives offering spectacular views over the Coast line.  For an extra-special treat, rent a convertible sports car from the many airport rental services and take in the [[French Riviera]] in style.
+
+Parking is plentiful in Monaco.  There is very little street parking, however, garage parking is easy to find.  Check Monapass App for availability.
+
+===By e-hailing===
+
+Common ride sharing apps available in France such as Uber or Bolt can be used to go to Monaco from nearby French cities such as Nice. However, these apps are not legal in Monaco: drivers can drop you in Monaco but cannot pick you up in Monaco. To leave Monaco with these apps you can walk to France (for instance to boulevard des Moneghetti in Beausoleil) and order an Uber from France. You can also stay in Monaco but select a pick up location in France and add a stop in Monaco where you are. Make sure you call or text the driver to inform them that no one will be at the first location. This is legal as drivers can stop for rides started outside the territory of Monaco.
+
+===By bus===
+{{see also|intercity buses in France}}
+Regional buses 600 (along the coast, every 15 min) and 602 (over Eze Village, every 2 hours) connect Monaco with Nice, bus 600 continues to Menton (both 2,50€). There is no bus station in Monaco. Instead, the regional buses stop at various points throughout the city.
+
+'''Flixbus''' does not stop in the country. The nearest stops are in Nice and Ventimiglia, where you can change to the train to Monaco.
+
+===By boat===
+[[File:Monte Carlo 7 2013.jpg|thumb|350px|Port Hercule]]
+Monaco's two ports are no strangers to private yachts. {{marker|type=go|name=''Port Hercule''|url=https://en.wikipedia.org/wiki/Port_Hercules|lat= 43.735187|long=7.424951|image=Monte_Carlo_7_2013.jpg}} is exceptionally beautiful and offers mooring and anchoring possibilities for up to 500 vessels, some of which are extremely large and elegant (in fact, many tourists often take time out of their day to simply have a drink by the water and admire the fantastic super yachts).  The {{marker|type=go|name=''Port of Fontvieille''|lat= 43.729389|long=7.419576|image=Port de Fontvieille of Monaco.JPG}}, integrated into the new district, can receive as many as 60 vessels of at least 30m in length.  Both are large and well-equipped.
+
+Monaco also serves as an embarkation port and port-of-call for cruises, so large cruise ships can often be spotted sailing in or out of Port Hercule.
+
+In close proximity, the {{marker|type=go|name=Port of Cap d'Ail|url=https://www.portdecapdail.fr/|lat= 43.7250|long=7.4161|image=Yachts in Port de Cap d'Ail (July 2020).jpg}} is also a choice destination for pleasure-boats.
+
+===On foot===
+[[File:Littoral path from Monaco to Cap d'Ail.jpg|thumb|Sentier du bord de mer]]
+A pleasant way to arrive in Monaco is to walk on the "{{marker|type=go|name=Sentier du bord de mer (from Cap d'Ail)|lat=43.720368|long=7.393641}}" (seaside trail), about a {{km|3}} and 45-minute walk on a concrete path in a natural and peaceful setting. Take the train and stop at the Cap d'Ail train station (the last before Monaco when coming from Nice; not all the trains stop there). Outside of the train station, follow the road a few meters and take the stairs on the left to pass under the tracks. Once you reach the small road, turn left and walk a few meters, then take the stairs on your right next to the restaurant "La Pinède" to join the trail. If you want to do the route from Monaco to Cap d'ail station, go to the west of Fontvieille ward, cross to the French border to join the Cap d'Ail port and follow the seashore. After a few minutes you will arrive to the "{{marker|type=go|name=Sentier du bord de mer (from Monaco)|lat=43.72270|long=7.41083|image=Littoral path from Monaco to Cap d'Ail.jpg}}" just after a final parking lot. It can be '''dangerous and closed in case of bad weather'''. In this case you will have either to go back and take the train, or walk on the road. There is no lighting at night.
+
+==Get around==
+{{Mapframe|43.737|7.4237|zoom=14|width=380|height=500}}
+{{Mapmask|43.5165,7.5002|43.5181,7.5028|43.5368,7.5330|43.7422,7.4524|43.7494,7.4384|43.7499,7.4386|43.7505,7.4384|43.7512,7.4387|43.7517,7.4379|43.7519,7.4370|43.7516,7.4368|43.7512,7.4376|43.7500,7.4360|43.7499,7.4348|43.7493,7.4324|43.7489,7.4319|43.7490,7.4306|43.7482,7.4304|43.7481,7.4298|43.7469,7.4293|43.7466,7.4288|43.7460,7.4286|43.7460,7.4288|43.7452,7.4286|43.7446,7.4281|43.7439,7.4281|43.7432,7.4270|43.7426,7.4267|43.7418,7.4257|43.7414,7.4253|43.7416,7.4250|43.7409,7.4245|43.7417,7.4230|43.7414,7.4222|43.7411,7.4219|43.7407,7.4216|43.7406,7.4217|43.7397,7.4206|43.7362,7.4149|43.7347,7.4127|43.7343,7.4123|43.7340,7.4128|43.7335,7.4127|43.7328,7.4131|43.7317,7.4129|43.7316,7.4116|43.7311,7.4105|43.7307,7.4100|43.7296,7.4090|43.7248,7.4185|43.5165,7.5002}}
+{{Mapshape|type=geoline|wikidata=Q99526904|stroke-width=3|stroke=#8A84A3|title=Parcours Princesse Grace}}
+{{Mapshape|type=page|wikicommons=Monaco_F1_Track.map}}
+{{Mapshape|type=page|wikicommons=Coastal_hike_Monaco_-_Carnoles.map}}
+{{Mapshape|type=page|wikicommons=Sentier_du_bord_de_mer.map}}
+
+Note that (as of September 2024) it is very difficult to store luggage. The train station info desk even has a sign outright saying it's not possible anywhere in the country.
+
+===By foot===
+
+Walking is by far the best way to get around Monaco; however, there are some areas, such as the Exotic Gardens, that require a large change in elevation and therefore make for rather strenuous hikes.   There are also seven public escalators and elevators (all free) that help negotiate the steep slopes of the city.  If you find yourself afoot and wanting to reach the opposite bank of Port Hercule, look for the small {{marker|url=http://www.cam.mc/services.php?idservice=14|type=go|name=Bateau Bus|lat=43.736948 |long=7.425677|image=Bateau bus solaire de Monaco.JPG}}, a pedestrian-only ferry that runs each 20 minutes or so during daylight; it costs €2.
+
+===By bus===
+Monaco has an urban bus service, operated by the [http://www.cam.mc/ Compagnie des Autobus Monaco], through the city's five bus routes (labelled 1, 2, 4, 5 and 6) which serves 143 stops. Each stop has the bus numbers that stop there, and most stops feature a real-time display showing waiting times for the next service. Each stop has a name and a network map. The service usually starts at around 06:00 and runs right through until about 21:00. Tickets can be purchased on board the buses (€2) or at many news vendors and shops throughout the city and at auto ticket machines at the bus stops (€1.50) — often it will be advertised as to where you can do this.  A daily pass allows you to use the buses all day for €5.50 (2016) and can also be purchased on board the bus. A night bus service operates in a circular route from 22:00 until 04:00.
+
+In 2025 and 2026, Monaco is providing free bus service around certain big events such as the Yacht Show and the Grand Prix.
+
+===By motor scooter===
+You can easily rent a motor scooter in Nice and take a short trip east along the sea into Monaco. The views are beautiful and the ride is fun along the twisty seaside road.  There are plenty of places to park for free.  Theft is not a concern, as there are cameras throughout and police everywhere. To rent one whilst there, you must be at least 16 years old.
+
+===By bicycle===
+Cycling is definitely a good option to get around in Monaco, but the traffic in high season can be intimidating. Also, be aware that the city state is rather steep, so unless your condition is very good an E-bike might be preferable.
+
+* {{go
+| name=MonaBike | alt= | url=https://monabike.mc/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price={{EUR|3}}/24h
+| wikidata=Q109497923
+| lastedit=2023-08-11
+| content=Monaco's official bike rental scheme. Credit card and mobile data needed.
+}}
+
+* {{go
+| name=The Bike Shop by Philippe Gilbert | alt= | url=https://www.facebook.com/thebikeshop.mc/| email=
+| address=7 Rue des Açores | lat=43.7327176 | long=7.4206668 | directions=
+| phone=+377 97974935 | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2023-08-11
+| content=Rents out e-Bikes and road bikes
+}}
+
+* {{go
+| name=MonecoBike | alt= | url=http://www.monecobike.com/ | email=
+| address=Les Jardins d'Apolline, 1 Prom. Honoré II | lat=43.73199 | long=7.41727 | directions=
+| phone=+377 99902404 | tollfree=
+| hours= | price={{EUR|45}}/day (less if booked for multiple days)
+| wikidata=
+| lastedit=2023-08-11
+| content=Rental of e-Bikes.
+}}
+
+===By car===
+
+Private cars are singularly useless for getting around Monaco, as you'll spend more time trying to park than if you walked or took a taxi instead.
+
+International rental car companies do have offices at the airport in Nice and also in Monte Carlo city. These include Avis, Gare Monte Carlo, Europcar and Hertz - drivers must have held a national driving license for at least one year and it is usually requested that the cost is paid for with the driver’s credit card. Driving in the city center can be intimidating in Monte Carlo with heavy traffic - however, it is often worth this to drive alongside the more expensive vehicles in the city! Make sure to request a car with an automatic gearbox if you are not used to driving manual.
+
+===By taxi===
+
+Taxis cannot be hailed on the streets (they won't stop) and there are two main taxi stands open around the clock at the Avenue de Monte Carlo and the railway station, although it is always best to agree a fee beforehand or make sure the meter is running.  Most hotels will provide taxis or courtesy drivers. The best is to get the taxi service phone number to be able to call a taxi wherever you are.
+
+Uber, Bolt and other ride sharing apps are banned in Monaco.
+
+==See==
+
+The principality of Monaco offers a great balance of historical and modern attractions. There are various museums and palaces to visit as well as shopping malls and casinos. Monaco also offers relaxation spots along the harbour and even around the attractions. It is relatively easy to navigate Monte Carlo and Monaco if you take the time to learn where the various "short cuts" are. City maps are generally available at most news vendor stands and shops for a small fee. The {{marker|type=go|name=Tourist information|image=Monaco tourist information in July 2020 01.jpg|url=http://www.officedutourismedemonaco.com/|lat= 43.740769|long=7.425928}} could be a good starting point before venturing to explore the city.
+
+[[File:Hôtel de Paris Monte-Carlo 004 (cropped).jpg|thumb|right|300px|Monte Carlo Casino]]
+* {{see
+| name=Monte Carlo Casino | alt=Grand Casino | url=http://www.casinomontecarlo.com | email=vip@montecarlocasinos.com
+| address=Place du Casino | lat=43.73917 | long=7.42796 | directions=
+| phone=+377 98 06 41 51 | tollfree=
+| hours=14:00-04:00 | price=
+| wikidata=Q1779905
+| lastedit=2025-01-23
+| content=The Monte Carlo Casino is a gambling and entertainment complex which includes a casino, the Opéra de Monaco, and the office of Les Ballets de Monte Carlo. Owned and operated by the Société des bains de mer de Monaco (SBM), a public company in which the Monaco government and the ruling family have a majority interest. The company also owns the principal hotels, sports clubs, foodservice establishments, and nightclubs throughout Monaco. If your wallet permits it, try your luck in the Grand Casino and gamble alongside the world's richest and often most famous. You'll need your passport to enter (as Monégasque citizens are prohibited from gambling at the casino, though they can work there), and the fees for entry range enormously depending on what room you are going to; often from €30 up into the hundreds. The dress code inside is extremely strict: men are required to wear coats and ties, and casual shoes are forbidden. The gaming rooms themselves are spectacular, with stained glass, paintings, and sculptures everywhere. It is possible to enter the casino as a guest from 10:00-13:00 for €17. The casino is not open for business at that time of day but visitors are provided with a half-hour audioguide and are permitted to walk freely through the premises. Minors are also allowed entry at this time too, and the dress code is less strictly enforced.
+}}
+
+[[File:Monaco_opera_034.jpg|thumb|300px|Opéra de Monaco]]
+* {{see
+| name=Opéra de Monaco | alt=Monaco Opera House | url=http://www.opera.mc/ | email=
+| address= | lat=43.73886 | long=7.428481 | directions=On the backside of the Casino
+| phone=+377 98 06 28 00 | tollfree= | fax=
+| hours=Tu-Sa 10:00-17:30; Su M off | price=
+| wikipedia=Opéra de Monte-Carlo | image=Monaco opera 034.jpg | wikidata=Q1577048
+| lastedit=2016-09-24
+| content=The Monaco Opera House or "Salle Garnier" was built by the famous architect Charles Garnier. The auditorium of the opera house is decorated in red and gold and has frescoes and sculptures all around the auditorium. Looking up to the ceiling of the auditorium, the visitor will be blown away by the superb paintings. The opera house is flamboyant but at the same time very beautiful. There have been some of the most superior international performances of ballet, opera and concerts held in the opera house for more than a century; consider taking in a show during your visit although it is expensive.
+}}
+
+[[File:Palais de Monaco.jpg|thumb|300px|Monaco-Ville, featuring the Prince's Palace of Monaco]]
+* {{see
+| name=Monaco-Ville | alt=Monaco City | url= | email=
+| address= | lat=43.731022 | long=7.423502 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Monaco City | image=Palais de Monaco.jpg | wikidata=Q55115
+| lastedit=2016-09-24
+| content=Take a walk through Monaco-Ville, also known as “Le Rocher” or “The rock.” Monaco-Ville is still a medieval village at heart and an astonishingly picturesque site. It is made up almost entirely of pedestrian streets and passageways and most previous-century houses still remain. There a number of hotels, restaurant and souvenir shops tourists can stay, eat and shop at. You can also visit the Prince's Palace, the Cathedral, the Oceanographic Museum, the City Hall and the Saint Martin Gardens.
+}}[[File:Princely Palace of Monaco 2.jpg|thumb|140px|right|Guard at the Prince's Palace]]
+** {{see
+| name=Palais Princier | alt=Prince's Palace | url=http://www.palais.mc/ | email=visites@palais.mc
+| address= | lat=43.73091 | long=7.420125 | directions=
+| phone=+377 93 25 18 31 | tollfree=
+| hours=10:00-18:00; Jul Aug 10:00-19:00; Oct 17-Mar 25 off | price=€10
+| wikipedia=Prince's Palace of Monaco | image=Panorama schloss monaco.jpg | wikidata=Q1164788
+| lastedit=2025-07-21
+| content=The Palais Princier is in old Monaco-Ville and is worth a visit. There are self-paced, audio-guided tours of the palace. The palace also offers a breathtaking panoramic view overlooking the Port and Monte-Carlo. Everyday at 11:55, in front of the Palace's main entrance visitors can watch the changing of the guard ceremony performed by the "Carabiniers". “Carabiniers” are not only in charge of the princes’ security but they offer him a guard of honor and on special occasions, are his escorts. The “Compagnie des Carabiniers du Prince” has a military band (Fanfare), which performs at public concerts, official occasions, sports events and international military music festivals.
+}}[[File:Monaco BW 2011-06-07 16-07-20.jpg|thumb|Cathedral Notre-Dame-Immaculée]]
+** {{see
+| name=Cathédrale Notre-Dame-Immaculée | alt=Saint Nicholas Cathedral | url=http://www.cathedrale.mc/ | email=cathedrale@cathedrale.mc
+| address= | lat=43.729988 | long=7.422645 | directions=
+| phone=+33 7 93 30 87 70 | tollfree= | fax=
+| hours=Oct-Apr: 08:30-18:00; May-Sep: 08:00-19:00 | price=
+| wikipedia=Saint Nicholas Cathedral, Monaco | image=Monaco BW 2011-06-07 16-07-20.jpg | wikidata=Q667450
+| lastedit=2016-09-24
+| content=The Monaco Cathedral was built in 1875 and stands on the site of a 13th-century earlier church. It is a Romanesque-Byzantine church dedicated to Saint Nicolas and houses the remains of former Princes of Monaco and Princess Grace. The church square also contains some of Monaco-Ville's finest restaurants.
+}}
+** {{see
+| name=Jardins Saint-Martin | alt=Saint-Martin Gardens | url= | email=
+| address=Avenue Saint-Martin | lat=43.729622 | long=7.4242034 | directions=South of Cathédrale Notre-Dame-Immaculée
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=St Martin Gardens | image=Prince Albert I statue.JPG | wikidata=Q16900477
+| lastedit=2016-09-25
+| content=Beautiful park along the ridge at the southern end of Le Rocher.
+}}[[File:Musee Oceanographique de Monaco - panoramio.jpg|thumb|Musée Océanographique facing the sea]]
+** {{see
+| name=Musée océanographique | alt=Oceanographic Museum and Aquarium | url=http://www.oceano.mc/ | email=musee@oceano.org
+| address=Avenue Saint-Martin | lat=43.730808 | long=7.425384 | directions=
+| phone=+33 7 93 15 36 00 | tollfree=
+| hours=Oct-Mar: 10:00-18:00; Apr-Jun Sep: 10:00-19:00; Jul 10-20; Dec 25 off | price=€19; combined tickets with car collection €23
+| wikipedia=Oceanographic Museum | image=Oceanographic Museum.jpg | wikidata=Q851527
+| lastedit=2024-01-13
+| content=The Oceanographic Museum and Aquarium is a world-renowned attraction. Located 279 above sea level, the museum contains stunning collections of marine fauna, numerous specimens of sea creatures (stuffed or in skeleton form), models of Prince Albert’s laboratory ships, and craft ware made from the sea’s natural products. On the ground floor, exhibitions and film projections are presented daily in the conference room. In the basement, visitors can watch spectacular shows of marine flora and fauna. With 4,000 species of fish and over 200 families of invertebrates, the aquarium is now an authority on the presentation of the Mediterranean and tropical marine ecosystem. Lastly, visitors can have lunch in “La Terrasse” and visit the museum gift shop. The entrance fee depends on the month of the visit. Students can get discount by showing valid student ID. You need to take bus number 1 or 2 from the Monaco Monte Carlo train station to reach this aquarium.
+}}
+* {{see
+| name=Musée de l'automobile de Monaco | alt=The Prince of Monaco’s Vintage Car Collection | url=https://www.mtcc.mc/ | email=mtcc@mtcc.mc
+| address=Les Terrasses de Fontvieille | lat=43.730894 | long=7.417149 | directions=
+| phone=+377 92 05 28 56 | tollfree=
+| hours=10:00-18:00; Dec 25 off | price=Adults €10, students €5
+| wikidata=Q16010845
+| lastedit=2021-02-01
+| content=For any car enthusiast this is the place to go. There is everything, from carriages and old cars to Formula 1 race cars. Around 100 vehicles are on display here.
+}}
+* {{see
+| name=Musée des Timbres et des Monnaies | alt=Museum of Stamps and Coins | url=https://www.mtm-monaco.mc/ | email=mtm@gouv.mc
+| address=11 terrasses de Fontvieille | lat=43.73088 | long=7.41759 | directions=
+| phone=+377 98 98 41 50 | tollfree=
+| hours=09:30–17:00 | price=€3
+| wikidata=Q3330282
+| lastedit=2021-05-24
+| content=A museum about the postal history of the principality. It contains a display of Monegasque money dating back to 1640. Also contains a shop which sells the latest issues of postage stamps, commemorative items and coin sets.
+}}
+
+[[File:Monaco and Monte-Carlo as seen from the Jardin Exotique 2009.jpg|thumb|Jardin Exotique with city in the background]]
+* {{see
+| name=Jardin Exotique | alt=Exotic Gardens | url=https://www.jardin-exotique.mc/ | email=jardin-exotique@mairie.mc
+| address=62, Boulevard du Jardin Exotique | lat=43.731511 | long=7.413778 | directions=
+| phone=+377 93 15 29 80 | tollfree=
+| hours='''Closed until end of summer 2025'''. Nov-Jan: 09:00-17:00; Feb-Apr Oct: 09:00-18:00; May-Sep: 09:00-19:00; Nov 19, Dec 25 off | price=The entry cost is a bit steep (€7.20) unless you're under 16 or a student (€3.80)
+| wikidata=Q1384208
+| lastedit=2022-11-13
+| content=The Jardin Exotique is one of the many gardens Monaco has to offer. It is also one of Monaco’s finest tourist attractions. Several thousand rare plants from around the world are presented in a walking tour that is quite memorable for the views as well as the flora and plants. Due to the rise in altitude, not only are there many displays of desert plants but there are a handful of subtropical flora displays as well. There is also a grotto that has scheduled guided tours. The tour starts at the beginning of every hour and lasts for around 25 minutes. In the cave, you will have to climb the stairs equivalent to around a 6-storey building. You need to take bus number 2 to reach this Garden. You can take this bus either from the train station or from the Oceanographic Museum.
+}}
+* {{see
+| name=Yacht Club Monaco | alt= | url=http://www.yacht-club-monaco.mc/en/ | email=
+| address=Quai Louis II | lat=43.73749 | long=7.42792 | directions=
+| phone=+377 93106300 | tollfree=
+| hours= | price=
+| wikidata=Q55131
+| content=Founded in 1953 by Prince Rainier and presided over by Prince Albert II since 1984, the Yacht Club de Monaco brings together more than 1200 members from 60 nationalities. Many of the world’s most prestigious private yachts fly the Yacht Club de Monaco’s burgee, testimony to its unique position on the international yachting scene. The new building designed by Lord Foster is in the heart of Port Hercule, in front of the YCM Marina. The YCM Gallery is a new area open to the public.
+}}
+* {{see
+| name=La Condamine | alt= | url= | email=
+| address= | lat=43.734608 | long=7.421552 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q55095
+| lastedit=2016-09-24
+| content=The second oldest district in Monaco, after Monaco-Ville. Here you can stop and marvel at the many luxurious yachts and cruise ships which usually adorn the docks in the marina. La Condamine is a thriving business district where you can visit the {{marker|type=see|name=Condamine Market|lat=43.7326335|long=7.4195302|image=Condamine Market - Monaco - Mapillary (jhFjaVMnQXJutirqw3aS0w).jpg}} and the {{marker|type=see|name=Rue Princesse Caroline pedestrian street|lat=43.733267|long=7.420012}}. With enjoyable landscaped areas and modern buildings, La Condamine is surely worth a visit.
+}}
+* {{see
+| name=Grimaldi Forum | alt= | url=http://www.grimaldiforum.com/ | email=gf@grimaldiforum.mc
+| address=10, Avenue Princesse Grace | lat=43.744122 | long=7.431456 | directions=
+| phone=+377 99 99 20 00 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Grimaldi Forum | image=Panoramio - V&A Dudush - Grimaldi forum.jpg | wikidata=Q1546813
+| lastedit=2016-09-24
+| content=The Grimaldi Forum is the Monaco convention centre. Completed in 2000, the sun filled building on the sea has a remarkable glass entrance, two convention restaurants, an auditorium for ballet and opera, and two more auditoriums for meetings and other affairs. The Forum also offers two large exhibition halls that can be used for trade shows or other exhibitions. It is also a short walking distance from surrounding hotels.
+}}
+* {{see
+| name=Champions Promenade | alt= | url=https://goldenfoot.com/ | email=
+| address= | lat=43.738112 | long=7.429856 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q83710
+| lastedit=2022-03-16
+| content=The winner of the "Golden Foot" football player of the year award leaves a permanent mould of his footprints here.
+}}
+* {{see
+| name=Jardin Japonais | alt=Japanese Garden | url= | email=
+| address= | lat=43.742796 | long=7.431126 | directions=
+| phone= | tollfree= | fax=
+| hours=09:00 to sunset | price=
+| wikipedia=Japanese Garden, Monaco | image=Jardinmonaco3bis.jpg | wikidata=Q15229360
+| lastedit=2016-09-28
+| content=The garden is 0.7 hectares in size, and features a stylised mountain, hill, waterfall, beach, brook, and a Zen garden for meditation. The garden was designed by Yasuo Beppu, the winner of the Flower Exhibition of Osaka 1990, as a miniature representation of Shintoist philosophy.
+}}
+* {{see
+| name=Nouveau Musée National - Villa Sauber | alt=New National Museum - Villa Sauber | url=http://www.nmnm.mc/ | email=public@nmnm.mc
+| address=Avenue Princesse Grace 17 | lat=43.74440 | long=7.43050 | directions=
+| phone=+377 98 98 91 26 | tollfree= | fax=
+| hours=10:00-18:00 during exhibitions | price=€6 (Villa Paloma + Villa Sauber)
+| wikipedia=New National Museum of Monaco | wikidata=Q3345073
+| lastedit=2018-05-08
+| content=Art exhibition in one of the last Belle Epoque villas in Monaco.
+}}
+* {{see
+| name=Nouveau Musée National - Villa Paloma | alt=New National Museum - Villa Paloma | url=http://www.nmnm.mc/ | email=public@nmnm.mc
+| address=Boulevard du Jardin Exotique 56 | lat=43.73287 | long=7.41380 | directions=
+| phone=+377 98 98 48 60 | tollfree= | fax=
+| hours=10:00-18:00 during exhibitions | price=€6 (Villa Paloma + Villa Sauber)
+| wikipedia=New National Museum of Monaco | wikidata=Q3345073
+| lastedit=2018-05-08
+| content=Art exhibition at the second location of the New National Museum.
+}}
+* {{see
+| name=One Monte-Carlo | alt= | url=https://www.montecarlosbm.com/en/hotel-monaco/residences/one-monte-carlo | email=
+| address= | lat=43.73934 | long=7.4262 | directions=At Casino Square
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q98168851
+| lastedit=2020-08-09
+| content=Find all types of luxury outlets and marvel at the nice architecture of the residential buildings. To rent an apartment here can cost up to €220,000 per month.
+}}
+* {{see
+| name=Église Sainte-Dévote | alt=Sainte-Dévote Chapel | url=http://www.saintedevotemonaco.com/ | email=
+| address= | lat=43.737506 | long=7.420976 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q584191
+| lastedit=2020-11-07
+| content=Beautiful chapel from the 17th century. In Monegasque tradition, the bride of the Sovereign Prince of Monaco lays her bridal bouquet at the chapel after the wedding ceremony. The first curve in Formula 1 is named after the chapel.
+}}
+=== Annual events===
+
+[[File:2013 Monaco Grand Prix - Sunday.jpg|thumb|300px|Monaco Grand Prix - Massenet curve]]
+* {{see
+| name=Monaco Grand Prix | alt=Grand Prix de Monaco | url=https://monaco-grandprix.com/en/ | email=location@formula1monaco.com
+| address= | lat=43.734444 | long=7.421389 | directions=
+| phone=+377 93 15 26 24 | tollfree=
+| hours= | price=
+| wikidata=Q9102
+| lastedit=2025-06-29
+| content=Monaco's streets hosts the best known [[Formula 1]] Grand Prix. It is also one of Europe's premier social highlights of the year. The Automobile Club of Monaco (ACM) organizes this spectacular race each year in late May, with the next on 5-7 June 2026. The Grand Prix is 78 laps around 3.34 kilometers of Monte Carlo's most narrow and twisted streets. The main attraction of the Monaco Grand Prix is the proximity of the speeding Formula One cars to the race spectators. The thrill of screaming engines, smoking tires and determined drivers also makes the Monaco Grand Prix one of the most exciting races in the world. There are more than 37,000 seats available for sale on the circuit ranging from €310 (at Boulevard Albert 1er) to €600 (at Casino Square) for a ticket on race day. Monaco residents often rent out their terraces for the event with prices ranging from €8,000 to €140,000 for the four days. During the rest of the year (except during the Historic Grand Prix and the ePrix; see below), it is possible to walk around the circuit. Tourist office maps have the route clearly marked on their maps, although devotees won't need them! For those who can afford it, you can also take a ride around the track in a performance car.
+}}
+:* {{see
+| name=Historic Grand Prix of Monaco | alt=Grand Prix de Monaco Historique | url=http://www.formula1monaco.com/ | email=location@formula1monaco.com
+| address= | lat= | long= | directions=
+| phone=+377 93 15 26 24 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Historic Grand Prix of Monaco | image=| wikidata=Q16965239
+| lastedit=
+| content=The famous Grand Prix isn't the only race on Monaco's streets. The ACM also organizes the Historic Grand Prix, held two weeks before the Grand Prix in even-numbered years, featuring a series of seven races that spotlight historic Formula 1 cars from all eras from pre-World War II to 1980. The races use a shortened version of the famous circuit, and tickets are less expensive than those for the Grand Prix.
+}}
+:* {{see
+| name=Monaco ePrix | alt=ePrix de Monaco | url=http://www.formula1monaco.com/ | email=location@formula1monaco.com
+| address= | lat= | long= | directions=
+| phone=+377 93 15 26 24 | tollfree=
+| hours= | price=
+| wikipedia=Monaco ePrix | wikidata=Q19946292
+| content=In odd-numbered years, the Historic Grand Prix is replaced by the Monaco ePrix, also organized by ACM and part of the international Formula E series. If you enjoy auto racing but can't handle the engine noise, this is the racing series for you—Formula E cars are electric. Since 2021 the cars race on the same circuit as the F1 cars.
+}}
+* {{see
+| name=Festival International du Cirque | alt=International Circus Festival | url=http://www.montecarlofestival.mc/ | email=
+| address=5 Avenue des Ligures | lat=43.726319 | long=7.418689 | directions=
+| phone=+377 92 05 23 45 | tollfree= | fax=
+| hours= | price=€30-190
+| wikipedia=International Circus Festival of Monte-Carlo | image=Scott&MurielinMonteCarlo.jpg | wikidata=Q607585
+| lastedit=2018-07-19
+| content=This extraordinary circus festival takes place every year in January. The world's best performers in their field take part.
+}}
+* {{see
+| name=Monte Carlo Tennis Masters | alt= | url=http://montecarlotennismasters.com/ | email=info@smett.mc
+| address= | lat=43.751741 | long=7.440729 | directions=
+| phone=+377 97 98 70 00 | tollfree= | fax=
+| hours= | price=Single day tickets vary between €25-185
+| wikipedia=Monte-Carlo Masters | image=Nadal 2 Monte Carlo 2007.jpg | wikidata=Q459528
+| lastedit=2016-09-25
+| content=This tournament is held end of April each year at the Monte Carlo Country Club just outside of Monaco in Roquebrune-Cap-Martin. Rafael Nadal is the record holder.
+}}
+* {{see
+| name=Top Marques Monaco | alt= | url=http://www.topmarquesmonaco.com/ | email=
+| address=10, Avenue Princesse Grace | lat=43.7435 | long=7.43152 | directions=Held in the Grimaldi Forum
+| phone=+377 97 70 12 77 | tollfree=
+| hours= | price=€36-50 for adults, €18-25 for children
+| wikidata=Q6861503
+| lastedit=2016-09-25
+| content=An exhibition, which features luxury aircraft, automobile, banking, boat, footwear, handbag, jewellery, real estate and wine products. The exhibition itself is less of an attraction than what actually happens on the street during the show. People bring their tuned sports cars from all over Europe to drift and rev their cars on the streets while being photographed by hundreds of car spotters. Held every third week of April each year.
+}}
+* {{see
+| name=Rallye Monte Carlo | alt= | url=https://acm.mc/en/rallye-monte-carlo/ | email=info@acm.mc
+| address= | lat= | long= | directions=
+| phone=+377 93 15 26 00 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Monte Carlo Rally | image=Placa Rally Montecarlo (1963).jpg | wikidata=Q725531
+| lastedit=2016-09-25
+| content=Maybe the most famous rallying event in the world. The stages of the rally run in the area around Monaco and the French Riviera. The cars gather on the day before the first stage in the "tire fitting zone" at Casino Square. Held every year in late January.
+}}
+[[File:07Crevisio-0206-Monaco-Yacht-Show-2013-Port-Panorama-Ultra-6032x1200 05a (14664087235).jpg|600px|thumb|Monaco Yacht Show]]
+* {{see
+| name=Monaco Yacht Show | alt=MYS | url=http://www.monacoyachtshow.com/ | email=info@monacoyachtshow.mc
+| address=Route de la Piscine | lat=43.733468 | long=7.421964 | directions=Entrance close to the swimming pool
+| phone=+377 93 10 41 70 | tollfree=
+| hours= | price={{EUR|690}} (day pass. Just make sure you have that extra few million on hand if you want to buy anything.)
+| wikidata=Q16934233
+| lastedit=2020-08-10
+| content=Held every year in September at Port Hercules this is considered one of the biggest superyacht shows in the world with around 130 boats on display. Walk along the harbourfront on the blue carpet and marvel at yachts with a combined net worth of about US$3 billion.
+}}
+* {{see
+| name=Monte-Carlo International Show Jumping | alt= | url=https://jumping-monaco.com/ | email=
+| address=Route de la Piscine | lat=43.73301 | long=7.42284 | directions=
+| phone=+377 97 70 24 14 | tollfree=
+| hours=End of June every year | price=
+| lastedit=2020-08-24
+| content=Attracts some of the best riders in the world. The course is considered very tight and challenging.
+}}
+
+==Do==
+
+[[File:Panorama von Monaco-La Turbie.jpg|thumb|300px|Panoramic view from Tête de Chien]]
+* {{do
+| name=Hike or drive up Tête de Chien ("Dogs Head") | alt= | url= | email=
+| address= | lat=43.730222 | long=7.402778 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Panorama von Monaco-La Turbie.jpg
+| lastedit=2016-09-25
+| content=Enjoy one of the most spectacular views over Monaco. {{marker|type=do|name=Another nice place nearby with an extraordinary panorama|lat=43.7345973|long=7.4034171}} can be found right north of the "Fort de la Tête de Chien". A big chunk of the Formula 1 track can be seen from this viewpoint. Equipped with binoculars it is the most economical and special way to see the Grand Prix live.
+}}
+* {{do
+| name=Hike along the coastal path from Monaco to Carnoles | alt= | url= | email=
+| address= | lat=43.7503978 | long=7.4785356 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Le Corbusier track around Cap Martin.jpg
+| lastedit=2016-09-25
+| content=A beautiful walk with splendid views towards Monaco. It takes roughly 2 hours from Monte-Carlo to circle Cap-Martin and finally reach Carnoles train station, where you can catch a train back to Monaco. An alternative to go back is by bus number 100. The overall distance is about 9 km.
+}}
+* {{do
+| name=Azur Express | alt= | url=http://www.monacotours.mc/ | email=contact@monacotours.mc
+| address= | lat=43.7309036 | long=7.4253051 | directions=Departure opposite the Oceanographic museum
+| phone=+377 92 05 64 38 | tollfree=
+| hours= | price=€10 adults, €5 children
+| image=A train-shaped tourist bus in Monaco.jpg
+| lastedit=2016-09-28
+| content=Fun tourist trains make daily tours all over Monaco. You will visit the Monaco Port, Monte-Carlo and its Palaces, the famous Casino and its gardens, the Old Town for City Hall and finally the royal Prince’s Palace. Commentaries are in English, Italian, German, French and another 8 languages. This enjoyable tour runs about 30 minutes long without the possibility to leave the train.
+}}
+* {{do
+| name=Monte-Carlo Sporting | alt=Sporting Monte-Carlo | url= | email=
+| address= | lat=43.7472 | long=7.4382 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Monte-Carlo Sporting | image= | wikidata=Q3494115
+| lastedit=2017-07-04
+| content=In the summer time, Monte-Carlo is illuminated with dazzling concerts at the exclusive '''Salle des Etoiles''', which lies within the Sporting complex. It has featured such artist as Natalie Cole, Andrea Bocelli, the Beach Boys, Lionel Richie and Julio Iglesias. The club also hosts a small casino which includes basic casino games. With no one under the age of 18, the rate per person is €20.
+}}
+* {{do
+| name=AS Monaco | alt=Stade Louis II | url=http://www.asmonaco.com/en/ | email=
+| address=7 Avenue des Castelans | lat=43.72758 | long=7.41547 | directions=
+| phone=+377 92 05 40 21 | tollfree=
+| hours= | price=€15-75
+| wikidata=Q180305
+| lastedit=2018-07-27
+| content=Attend a football game of the local team. They play in Ligue 1, the top tier of French football, and often qualify for European tournaments. The stadium, capacity 18,500, is on reclaimed land on the southern border of Monaco: one of a select few where a wayward shot on goal might see the ball land in another country.
+}}
+* {{do
+| name=The Monaco Open Air Cinema | alt= | url=https://www.cinemas2monaco.com/ | email=
+| address=Parking du Chemin des pêcheurs | lat=43.73134 | long=7.4271 | directions=
+| phone=+377 93 25 86 80 | tollfree=
+| hours=Jun 15-Jul 31: 20:45-24:00; Aug: 20:30-23:30; Sep 01-Sep 15: 20:00-23:00 | price={{EUR|11.50}}
+| lastedit=2020-08-09
+| content=Watch a movie in Europe's largest outdoor cinema. The unique setting high above the Mediterranean Sea makes the experience very special. Every evening during the summer a different movie is played.
+}}
+* {{do
+| name=Scenic helicopter flight | alt= | url=https://www.heliairmonaco.com/ | email= booking@heliairmonaco.com
+| address=Avenue des Ligures | lat=43.72577 | long=7.41927 | directions=
+| phone=+377 92 050 050 | tollfree=
+| hours= | price=From €390 (10 min) to €900 (30 min) per helicopter (6 passengers)
+| image=I-AWTK AW139 Monacair MCM 271117 (39147112854).jpg
+| lastedit=2020-08-09
+| content='''Monacair''' and '''Héli Air Monaco''' offer scenic flights along the Côte d’Azur.
+}}
+* {{do
+| name=Walk along the Parcours Princesse Grace | alt= | url=https://www.monte-carlo.mc/static/img/guides/parcours-princesse-grace-en.pdf | email=
+| address= | lat=43.728240 | long=7.414940 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q99526904
+| lastedit=2020-11-07
+| content=An {{km|11}} long walk on which you can retrace the work of Princess Grace in the Principality with help of 24 signboards along the way. Start point is in front of Stade Louis II.
+}}
+
+==Buy==
+===Money===
+{{Exchange rate euros}}
+Like its neighbour, France, Monaco uses the '''euro'''. Currency exchange is readily available for a wide range of currencies. ATMs are commonplace.
+
+For coin collectors visiting Monaco, its euro coins are issued in limited amounts for general circulation and are perfect souvenirs to bring home.
+
+===Shopping===
+Shopping in Monte Carlo is usually quite exclusive and is certainly no place for a budget holiday. There are plenty of places to melt the credit card alongside Europe's high rollers. The chic clothes shops are in the '''Golden Circle''', framed by Avenue Monte Carlo, Avenue des Beaux-Arts and Allées Lumiéres, where Hermès, Christian Dior, Gucci and Prada all have a presence. The area on and around Place du Casino is home to high-end jewellers such as Bulgari, Cartier and Chopard. You will find, however, that most tourists will simply enjoy wandering the area and window shopping, even if you don't buy anything. The normal shopping hours are from 09:00 to 12:00 and 15:00 to 19:00.
+
+For a more cultured take on shopping in Monte Carlo, try the '''Condamine Market'''. The market, which can be found in the Place d'Armes, has been in existence since 1880 and is lively and attractive - many hours can be spent simply wandering around, bargaining for souvenirs from the many tiny shops, boutiques and friendly locals. If however, your shopping tastes are more modern, just take a short walk along the esplanade to the rue Princess Caroline pedestrian mall.
+
+The '''Fontvieille Shopping Centre''' is also a more "normal" shopping experience with 36 shops selling electronic goods, CDs, furniture, and clothes as well as a Carrefour supermarket and McDonald's. The tourist office also issues a useful free shopping guide to the city.
+
+* {{buy
+| name=Le Métropole Shopping Center | alt= | url=http://metropoleshoppingcenter.com/ | email=contact@ccmetropole.com
+| address=17 Avenue des Spélugues | lat=43.741027 | long=7.428343 | directions=
+| phone=+377 93 50 15 36 | tollfree= | fax=
+| hours=M-Sa 10:00-20:00; Su off | price=
+| image=Shopping Le Metropole (3530957483).jpg
+| lastedit=2016-09-28
+| content=80 shops in a beautiful ambient. The chandeliers are amazing.
+}}
+
+Some stores to browse or buy:
+
+*{{buy
+| name=Fred Boutique | url= | email=
+| address=6, av des Beaux-Arts, Monte Carlo  | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Located on the exclusive avenue of des Beaux-Arts, this is one of only a handful of Fred boutiques in the world. An official jeweller of Monaco's royal family and a favorite of celebrities, you may not be able to afford much in this boutique, but it's worth a jaw dropping visit. If you go to Monte Carlo, you shouldn't miss this.
+}}
+*{{buy
+| name=Boutique du Rocher | url= | email=
+| address=1, av de la Madone, Monte Carlo  | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Opened by Princess Grace in the 1960s, visitors still come for the best in souvenirs. Choose from hand-carved frames and mirrors, ceramics, homewares and toys. Prices are moderate and all proceeds go to local charities.
+}}
+*{{buy
+| name=Davidoff | url= | email=
+| address=17, av des Spélugues, Les galeries du Métropole, Monte Carlo | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=High end cigar and cigarette store, where you are assisted by staff that know their product well.
+}}
+*{{buy
+| name=Galerie Moghadam | url= | email=
+| address=23 & 41, bd des Moulins, Monte Carlo  | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Award-winning speciality shop that offers superb hand woven tapestries and carpets.
+}}
+*{{buy
+| name=Pratoni Monaco | url=http://www.pratoni.com | email=
+| address=7, Avenue Princesse Grace | lat= | long= | directions=Larvotto
+| phone= | tollfree= | fax=
+| hours=10:00-12:30, 14:00-19:30 | price=
+| content=Monaco fashion brand Pratoni offers a variety of ready-to-wear clothing & accessories for gentlemen in addition to wide range of made-to-measure services. All items are of high quality, and made in Italy or Monaco.
+}}
+
+==Eat==
+<!-- Even though this is a "country" article, it is also the article for the city of Monte Carlo.  Individual listings are welcome and encouraged. -->
+
+Food in Monaco is varied, but generally expensive, and even very basic meals often cost over €20-30. Take a look at the menu before entering even shabby restaurants or you may be in for a surprise. There are places where you can find decent value, but they often require knowing about beforehand. Restaurants where locals dine are often located a little bit away from the waterfront and often serve better food for lower prices (however, since you are in Monaco: nothing is a bargain).
+
+There are many restaurants catering to tourists, from the Cafe de Paris across the street from the casino, to the waterfront restaurants along the Port de Fontvieille. During the winter months, you will find the restaurants to have a slightly lower price tag. Bouillabaisse is a good tip.
+
+===Budget===
+There is a variety of restaurants and cafés in the city with a moderate price tag and excellent food. A few simple cafés exist along the marina-side, more like beach bars than anything else, serving simple meals such as pizza, salads and hotdogs throughout the day. These can be good for sitting back during the hot midday with a cold beer or glass of wine, a snack to recharge your batteries from exploring the city, and the gentle lapping of the Mediterranean (and often the roar of supercars) in your ears. Most of these restaurants are equipped with water-misters in the ceilings that gently cool and refresh the clientele.
+[[File:Chez Roger in Condamine Market, Monaco 01.jpg|thumb| Socca (left) and Pissaladière (right) from Chez Roger]]
+
+* {{eat
+| name=Chez Roger | alt= | url= | email=
+| address= | lat=43.7324334 | long=7.4201694 | directions=In the market hall east of Place d'Armes
+| phone=+377 93508020 | tollfree=
+| hours=M-Sa 09:45-13:30 | price=
+| image=Chez Roger in Condamine Market, Monaco 03.jpg
+| lastedit=2022-08-01
+| content=Try the typical food of the region. ''Socca'' (chickpea pancakes) for €3 and ''Pissaladière'' (caramelized onion and anchovy tart) for €2 (Aug 2020). The Monégasque speciality ''Barbajuan'', which is a kind of fritter stuffed with spinach and other ingredients, can be bought in the shop to the right of Chez Roger's.
+}}
+* {{eat
+| name=Mickey’s Pizza | alt= | url=https://www.mickeyspizza-monaco.com/ | email=contact@mickeyspizza-monaco.com
+| address=10 Rue de la Turbie | lat=43.7334802 | long=7.4182891 | directions=
+| phone=+377 97987664 | tollfree=
+| hours=M-F 11:00-14:00,18:00-22:00; Sa 18:00-22:00 | price=
+| image=Mickey’s Pizza, Monaco.jpg
+| lastedit=2022-08-01
+| content=Good quality pizza. Topped pizzas from €11, pizza lunch menu for €11.50 (August 2019).
+}}
+* {{eat
+| name=Cooks Monaco | alt= | url= | email=
+| address=10 Bd Princesse Charlotte | lat=43.7388083  | long= 7.4206719 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Brilliant Italian pizzas and great service. They also have a rotisserie corner with a wide choice. For real honest good food in Monaco here is the place to go.
+}}
+* {{eat
+| name=Lo Sfizio Street | alt= | url= | email=
+| address=14 Av. Saint-Charles | lat=43.7421777  | long=7.4264822 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Yummy pizzas. The dough and the filling is quite exceptional. The service is with a smile and you can even eat quietly on the tables on the terrace on the pedestrian street.
+}}
+* {{eat
+| name=Maison des pâtes Saint-Charles | alt= | url= | email=
+| address=14 Av. Saint-Charles | lat=43.7422661  | long=7.4265801 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Good fresh made pasta with best Service. The pasta, gnocchi and ravioli are very good, the sauces varied and well cooked. You will only find extraordinarily delicious takeaway products here. And the welcome is always warm.
+}}
+
+===Mid-range===
+[[File:Cafe de Paris Monte-Carlo - panoramio.jpg|thumb|Cafe de Paris]]
+*{{eat
+| name=Café de Paris | alt= | url= | email=
+| address=Place du Casino | lat=43.73972 | long=7.42769 | directions=
+| phone=+377 98 06 76 23 | tollfree=
+| hours=Daily 08:00-02:00 | price=
+| wikidata=Q2932978
+| lastedit=2022-08-01
+| content=The nerve centre of Monte Carlo, where people go to see and be seen, buzzing with the feel of old time Monte Carlo, circa early 1900s. Menu items change frequently, as do the waiters, who seem intent on rushing patrons through their meals. For people-watching, you could try a diet Coke for €6, glass of beer for €14 and ice cream for €16 (June 2017). Reservations to dine are recommended.
+}}
+*{{eat
+| name=Beefbar | alt= | url=http://beefbar.com/ | email=
+| address=42 Quai Jean-Charles Rey | lat=43.72781 | long=7.42162 | directions=
+| phone=+377 97770929 | tollfree=
+| hours=Daily 14:30-00:00 | price=
+| lastedit=2022-08-01
+| content=Quality cuts of beef on offer, attached with high, though surprisingly worthwhile price tag. Small cups on puree are available for the meat, though an additional cup (one is far too small), costs €8.5 (Aug 2020). Wine selections are paired perfectly with the red meat. Chic atmosphere and the staff are extremely attentive.
+}}
+* {{eat
+| name=L'Express | alt= | url=https://lexpress-restaurant-monaco.com/ | email=
+| address=22 Rue Comte Félix Gastaldi | lat=43.730786 | long=7.422509 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2025-09-28
+| content=Good pizza and pasta as well as other dishes. Try the delicious "Farandole Monégasque", a sampler plate of local Monégasque dishes. Vegetarian options.
+}}
+
+===Splurge===
+Dining in Monaco can be a very sobering experience to whomever is paying the bill. Perhaps the most exclusive and famous restaurants in the city are the '''Louis XV Restaurant''' and the '''Le Grill de L'Hotel de Paris''', both centered on the very exclusive Hotel de Paris. You are more than likely to be seated next to a member of the rich and famous, and the gourmet food is simply out-of-this-world although the experiences come with a rather hefty price tag.
+
+*{{eat
+| name=Louis XV | alt= | url=https://www.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris | email=adhp@sbm.mc
+| address=Hôtel de Paris - Place du Casino | lat=43.73911 | long=7.42734 | directions=
+| phone=+377 98 06 88 64 | tollfree=
+| hours=Sa Su 12:00-13:45, Th-M 19:30-21:45; Tu W off | price=Á la carte from €200 (not including drinks), set lunch for €180/person (Aug 2020)
+| wikidata=Q6507158
+| lastedit=2022-08-01
+| content=In one of the finest hotels in the world, run by one of the finest chefs in the world (Alain Ducasse) this Michelin 3-star rated restaurant serves dining perfection among luxurious glitterati. The level of sophistication for all dishes is hard to be surpassed, the sea bass with Italian artichokes regularly reaches a score of 19/20 by restaurant critics. The restaurant contains the world's largest wine cellar: 250,000 bottles of wine (many priceless) stashed in a rock cave. Reservations are essential, as are jacket and tie for men.
+}}
+*{{eat
+| name=Le Grill | alt=Le Grill de L'Hotel de Paris | url=https://www.montecarlosbm.com/en/restaurant-monaco/the-grill | email=legrill@sbm.mc
+| address=In the Hôtel de Paris, place du Casino | lat=43.73854 | long=7.42758 | directions=
+| phone=+377 98 06 88 88 | tollfree=
+| hours=12:00-14:00,19:30-21:45 | price=A la carte approximately €60-80 (neither drinks nor starter included). Set menu for lunch €65 (Aug 2020)
+| wikidata=Q65197775
+| lastedit=2022-08-01
+| content=Although often overlooked by the famed ''Louis XV'', look above to the Hotel de Paris' rooftop for its equally elegant contender. Less intimidating than the Ducasse citadel downstairs, Le Grill offers every imaginable sort of grilled fish, and meat that come from the nearby Alps. The selection of 600,000 wines are the perfect accompaniment to every dish, and the service is impeccable. Dining on the rooftop affords you stunning, panoramic views of Monte Carlo, and in the summer, a blanket of starry sky.
+}}
+
+==Drink==
+
+Champagne has the status of a national beverage in Monaco. A single glass can cost as much as €40 at a fashionable restaurant!
+
+*{{drink
+| name=Jimmy’z Monte-Carlo | alt= | url=http://www.jimmyzmontecarlo.com/ | email=jimmyz@sbm.mc
+| address=26 avenue Princesse Grace | lat=43.747262 | long=7.438194 | directions=
+| phone=+377 98 06 70 68 | tollfree=
+| hours=Open all night from 23:30 | price=
+| lastedit=2020-03-31
+| content=The ultimate night club in Monaco (it's not actually in Monte Carlo), the famed Jimmy'z is frequented by royalty and the uber-rich, which isn't a surprise considering some of the hefty price tags, a beer will cost you upwards of €26. If you are not willing to afford it, there are other clubs to go to. There are two entrances: one, two floors down in Le Sporting Club, the other at street level, and many rock stars and billionaires have walked through both. Staff can be quite rude, but so are most of the patrons. Definitely an experience.
+}}
+* {{drink
+| name=Buddha-Bar Monte-Carlo | alt= | url=http://www.buddhabarmontecarlo.com/ | email=buddhabarmontecarlo@sbm.mc
+| address=Place du Casino | lat=43.739911 | long=7.429171 | directions=a short walk up the stairs from the hairpin curve at Fairmont Hotel
+| phone=+377 98 06 19 19 | tollfree= | fax=
+| hours=Tu-Sa 18:00-02:00 | price=
+| wikidata=Q851372| wikipedia=Buddha Bar | image=Buddha Bar in Monaco.jpg
+| lastedit=2016-09-27
+| content=Asian bar and restaurant is quite a decadent scene and quite expensive. Expect a queue for the bar and table service with the usual club-style sparklers after 23:00.
+}}
+* {{drink
+| name=Gerhard's Café | alt= | url=http://www.gerhardscafe-monaco.com/ | email=office@gerhardscafe-monaco.com
+| address=42 Quai Jean-Charles Rey | lat=43.7277639 | long= 7.4216863 | directions=
+| phone=+377 92052579 | tollfree=
+| hours=M-Sa 08:00-03:00, Su 11:00-03:00 | price=
+| lastedit=2020-08-09
+| content=Down to earth pub/restaurant with southern German/Austrian cuisine in the midst of poshy Fontvieille district.
+}}
+*{{drink
+| name=Twiga | alt= | url=https://www.twigamontecarlo.com/ | email=info@sumosantwiga.com
+| address=Top Floor Grimaldi Forum Ave. Princesse Grace | lat=43.74337 | long=7.43172 | directions=
+| phone=+377 99 99 25 50 | tollfree=
+| hours=Tu-Su 19:00-02:00 | price=
+| lastedit=2020-08-09
+| content=Showcasing panoramic views from the top floor of the Grimaldi Forum, the outdoor seating area offers the perfect spot to see yachts cruising into the harbour. Top models and the people who want to be with them dance the early mornings away. Cocktail list is impressive and bite-sized treats are available.
+}}
+*{{drink
+| name=The Bar @ Columbus Hotel | alt= | url= | email=
+| address=23 Avenue des Papalins Monte Carlo | lat=43.72730 | long=7.42006 | directions=
+| phone=+377 92 059000 | tollfree=
+| hours= | price=
+| lastedit=2020-03-31
+| content=More laid-back and informal than some of its counterparts, its subdued atmosphere is a refreshing change from some of the high energy Monaco bars. Decked out in shades of blue, it's almost as sweet as the chocolate martinis, which come with a big truffle in each glass which slowly dissolves into your drinks and tastes heavenly.
+}}
+* {{drink
+| name=La Rascasse | alt= | url=https://www.montecarlosbm.com/de/bar-nachtclub-monaco/la-rascasse | email=
+| address= | lat=43.73259 | long=7.42332 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q103464445
+| lastedit=2020-12-02
+| content=One of the most famous bars in the city due the final curve of the F1 track, which is named after the place.
+}}
+
+==Sleep==
+[[File:Entrada do Túnel (3530966681).jpg|thumb|Fairmont Hotel with the tunnel used in the yearly F1 race]]
+===Budget===
+If you're on a budget, Monaco is not the best place to be. A better option is to stay in one of the towns outside of Monaco:
+* '''Nice''' – 20 min away by cheap and frequent trains from Monaco. Or you take the bus along the coast. The city also offers hostels.
+* '''Menton''' – 10 min by train, a French beach town. Buses to Monaco have multiple stops in the town.
+* '''Ventimiglia''' – 30 min by train, which is an Italian sea-side town situated near the French border.
+
+The Monaco Tourism center staff will also sit down and make phone calls to assist walk-ins in finding accommodation.  Even if you ask for "cheap" lodging.
+
+===Mid-range===
+Better priced mid-range hotels you find in the city of '''Beausoleil''', directly bordering Monaco.
+*{{sleep
+| name=Hôtel de France | alt= | url=https://hotel-de-france-monaco.hotelescuatroestrellas.website/ | email=
+| address=6 rue de la Turbie | lat=43.73334 | long=7.41832 | directions=
+| phone=+377 93302464 | tollfree=
+| checkin= | checkout= | price=€150 double
+| lastedit=2020-08-09
+| content=Simple and modern hotel that is well-priced given the hotel's location.
+}}
+* {{sleep
+| name=Columbus Hotel | alt= | url=http://www.columbushotels.com | email=
+| address=23 Avenue des Papalins | lat=43.72722222 | long=7.42 | directions=Just by the heliport, and about 200 m from the Stade Louis II.
+| phone=+377 92 05 90 00 | tollfree=
+| checkin= | checkout= | price=From {{EUR|250}}
+| wikidata=Q5150059
+| lastedit=2020-08-09
+| content=This 3-star hotel was co-owned by successful Glaswegian hotelier Ken McCulloch, designer Amanda Rosa and British F1 racing driver David Coulthard (all Monaco residents today). There is an excellent restaurant and the lobby is a great spot to relax on the comfortable sofas. Rooms are modern.
+}}
+*{{sleep
+| name=Hotel Ambassador | alt= | url=http://www.ambassadormonaco.com | email=info@ambassadormonaco.com
+| address=corner of ave Prince Pierre | lat=43.73278 | long=7.41820 | directions=
+| phone=+377 97 97 96 96 | tollfree=
+| checkin= | checkout= | price=From {{EUR|135}}
+| image=Hotel Ambassador, Monaco.jpg | wikidata=Q56300870
+| lastedit=2020-08-10
+| content=Surprisingly standard mid range hotel that is good value for business travellers and those watching their euros. Rooms are kitted out with the usual TV, mini bar air con, with Wi-Fi access and cable making it a nice touch.
+}}
+
+===Splurge===
+*{{sleep
+| name=Hôtel de Paris | alt= | url=http://www.hoteldeparismontecarlo.com/ | email=resort@sbm.mc
+| address=Place du Casino | lat=43.73911 | long=7.42739 | directions=
+| phone=+377 9216 30 00 | tollfree= | fax=+377 9216 26 26
+| checkin=15:00 | checkout=12:00 | price={{EUR|400}}-{{EUR|940}} double; from {{EUR|1995}} suite
+| wikidata=Q1279896
+| lastedit=2021-05-25
+| content=Offering a level of sophistication that has awarded itself as one of the world's most famous hotels. Featuring marble pillars, crystal chandeliers, Louis XVI chairs, and sumptuous carpets, it's a vision of luxury and a favorite among the world's travellers. Rooms are simply enormous with marble and brass furnishings and the hotel is home to the country's two finest eating establishments, the Le Grill de l'Hôtel de Paris and Le Louis XV. The SBM's Carte d'Or offers the de Paris' guests transport and access to the facilities of the Monte Carlo Beach Hotel and Les Thermes Marins spa.
+}}
+*{{sleep
+| name=Hôtel Hermitage | alt= | url=http://www.hotelhermitagemontecarlo.com/ | email=hh@sbm.mc
+| address=Square Beaumarchais | lat=43.738466 | long=7.425974 | directions=
+| phone=+377 98 06 40 00 | tollfree=
+| checkin= | checkout= | price=double {{EUR|320}}-{{EUR|528}}; junior suite {{EUR|568}}-{{EUR|792}}; suite from {{EUR|1596}}
+| wikipedia=Hôtel Hermitage Monte-Carlo | image=| wikidata=Q2383600
+| lastedit=2017-07-03
+| content=Perched on a clifftop, the Hermitage offer idyllic living at its best. The majority of rooms have balconies, so guests can have stunning views from their rooms. While the hotel is quite old, all amenities and features and modern and elegant in their styling and a stay here is truly well deserved. The SBM's Carte d'Or offers the Hermitage's guests transport and access to the facilities of the Monte Carlo Beach Hotel and Les Thermes Marins spa.
+}}
+* {{sleep
+| name=Hôtel Métropole | alt= | url=https://metropole.com/ | email=metropole@metropole.com
+| address=4, avenue de la Madone | lat=43.740935 | long=7.427918 | directions=
+| phone=+377 93 15 15 15 | tollfree=
+| checkin= | checkout= | price=
+| wikidata=Q30681475
+| lastedit=2017-07-03
+| content=It was built in 1886 and has 126 guest rooms, including 64 suites. It was designed by Hans-Georg Tersling. Prince Andrew of Greece and Denmark died there in 1944, and American television host Mike Bongiorno died there in 2009.
+}}
+*{{sleep
+| name=Monte-Carlo Bay Hotel & Resort | alt= | url=http://www.montecarlobay.com/ | email=resort@sbm.mc
+| address=40, avenue Princesse Grace | lat=43.748845 | long=7.438845 | directions=
+| phone=+377 98-06-02-00 | tollfree= | fax=+377 98-06-00-03
+| checkin=16:00 | checkout=12:00 | price={{EUR|300}}-{{EUR|800}} double; {{EUR|750}}-{{EUR|1400}} suite
+| wikipedia=Monte-Carlo Bay Hotel & Resort | image=Bay ext.jpg | wikidata=Q3322510
+| lastedit=2017-07-03
+| content=Awe impressive 4-hectare (10-acre) resort. The high price reflect the quality of stay. Only about {{m|500}} from the sandy beaches of Larvotto, more than 3/4 of rooms open onto sea views. Marble bathrooms feature flat screen tvs with cable ties, the hotel pool has an indoor pool covered with an ornate glass dome, and the hotel bar is none other than Jimmy'z's. The furnishings are sandstone floors, soft Mediterranean pastels and sleek modern amenities. The service to detail is outstanding, different shampoos and towels on different days, and the staff are polite and attentive without being intrusive. The SBM's Carte d'Or does not offer the Bay Hotel's guests access to the facilities of the Monte Carlo Beach Hotel or Les Thermes Marins. The Bay Hotel is rather self-contained, but lacks a beach.
+}}
+* {{sleep
+| name=Port Palace Hôtel | alt= | url=https://www.portpalace.net/ | email=reservation@portpalace.com
+| address= | lat=43.73715 | long=7.42414 | directions=
+| phone=+377 97979000 | tollfree=
+| checkin= | checkout= | price=From {{EUR|370}}
+| lastedit=2021-07-25
+| content=4-star hotel with relatively reasonable prices compared to places of similar quality in the Principality.
+}}
+
+==Work==
+All foreigners are required to obtain a work permit to work in Monaco. As Monaco is not a member of the European Union, even citizens of EU countries are required to obtain a work permit.
+
+==Respect==
+
+In many ways, [[France#Respect|the Respect section of the France page]] can detail how to be respectful toward the Monegasque population, but Monaco is a separate nation and it may be insulting to casually conflate the two. Monaco's population retain their own history, their own culture, and their own lifestyle. Directions or other help are only a smile and a question away.
+
+==Stay safe==
+Monaco is one of the safest places on the planet, with nationwide video surveillance and one police officer per 100 residents. You can feel safe wearing your diamonds and Rolex, even for a night walk through the streets or coastline, with almost no street-crime, and a strong police presence. It has one of the lowest homicide rates of any country in the world, and among the lowest in terms of overall violent crime. Because of their wealth, public spaces are blanketed with cameras and any kind of disorder may produce an immediate reaction and the attendance of several officers. However, pickpocketing may occur during sporting events, like the Formula One Grand Prix and major football games.
+
+Homosexuality is legal, although there are no specifically gay places in Monaco. You can walk with your same-sex partner hand in hand without being insulted in public places.
+
+Monaco security can follow anyone on public areas, streets & corridors, using the vast camera network without losing you from their screens.
+
+Be wary of dive-bombing seagulls. They like to steal food from people eating outdoors.
+
+==Stay healthy==
+
+'''[[Tap water]]''' is safe to drink.
+
+==Connect==
+Monaco has its own mobile phone operator, [https://www.monaco-telecom.mc/ Monaco Telecom], which is not covered by EU's roaming rules. This means that mobile numbers and SIM cards registered in a EU country, including France, may incur roaming charges much like everywhere outside of Europe (or any SIM card from outside of the EU within it). Pay heed to it if you hope to visit Monaco as part of your European trip and make sure to set up your phone NOT to automatically switch to the strongest available network, as well as consider switching off data transmission while roaming, before heading for Monaco.
+
+Although Monaco was the world's first country to have full operational 5g coverage, if you don't use the local Monaco Telecom or French Orange, internet is extremely slow or even non-functional.
+
+Some operators include Monaco among countries billed on "home rules" in some subscription plans, so if your operator is generous enough, you may leave Monaco unscathed. Remember to check beforehand.
+
+Postal service is provided by '''[https://www.lapostemonaco.mc/ La Poste Monaco]''', a subsidiary of the French postal service. However, regular French stamps cannot be used to send mail from Monaco, and you will need to purchase Monaco stamps for that.
+
+==Go next==
+* Other places at the [[Cote d'Azur]], like [[Èze]], [[Nice]], [[Antibes]], [[Cannes]]
+* Coastal towns further west along the French Riviera, like [[Saint Tropez]], and [[Marseille]]
+* [[Alpes-Maritimes|Maritime Alps]]
+* [[Italy]] ([[Liguria|Ligurian coast]], [[Genoa]], [[Milan]], et al.)
+
+{{routebox
+| image2=Route européenne 80.svg
+| imagesize2=40
+| directionl2=W
+| majorl2=[[Nice]]
+| minorl2={{flag|Europe}}{{flag|France}} [[La Trinité]] 
+| directionr2=E
+| majorr2=[[Sanremo]]
+| minorr2=[[Menton]] {{flag|Europe}}{{flag|France}}
+}}
+
+{{usablecountry}}
+{{isPartOf|Alpes-Maritimes}}
+{{Geo|43.732778|7.419722}}

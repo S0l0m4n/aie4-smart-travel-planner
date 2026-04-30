@@ -1,0 +1,367 @@
+{{pagebanner|Kotor banner.jpg|unesco=yes}}
+'''Kotor''' is a coastal town in [[Montenegro]] with a population of 22,000 (2023). It is known for its beautiful architecture and natural setting in the deepest part of the [[Bay of Kotor]]. It has developed around ''Stari Grad'' ("old town"), the city's old town and best known landmark, which is listed with [[UNESCO World Heritage List|UNESCO World heritage sites]]. The city walls are separately listed together with five other Venetian city walls along the Adriatic and in Italy. 
+
+==Understand==
+[[Image:Kotor, Montenegro.jpg|thumb|right|320px|The Bay of Kotor]]
+Kotor is in the secluded [[Boka Kotorska]] bay, on [[Montenegro]]'s northern coast. The bay is the deepest natural fjord in the Mediterranean Sea, and the scenery around it (including the steep mountains which come almost to the waterfront) is spectacular.
+
+The ''Stari Grad'' is fully walled (the mountain functions as a rear wall). Four gates offer access to the town: The Main Gate, along the Bay, the North Gate, the South Gate, and a smaller New Gate. There are no cars allowed in the ''Stari Grad'', nor are there standard road names in the ''Stari Grad''. Although all buildings are numbered, it is best to use landmarks for directions. Generally, the squares are named for the church in their center, and directions either relate to the closest square or the closest gate. The most obvious landmark is the clock tower, just inside the main gate, in the main square.
+
+Kotor and the entire Kotor Bay have long been a vacation and second-home destination for many Europeans and British. After Serbian, English is the common language, and most waitstaff and hotel staff speak English.
+
+===Local information ===
+
+* [https://www.kotor.me/en// City government website]
+
+
+==Get in==
+[[File:Cerkiew św. Łukasza w Kotorze 01.jpg|thumb|upright=1.4|Saint Luke Church]]
+===By plane===
+* [[Tivat#By plane|Tivat Airport]] is 8&nbsp;km away.
+* [[Podgorica#By plane|Podgorica airport]] is 90&nbsp;km away.
+* [[Dubrovnik#By plane|Dubrovnik airport]] in [[Croatia]] is 73&nbsp;km away from Kotor, and maintains flights from many European destinations throughout the year, providing an alternative to the Montenegrin airports. A taxi to Kotor costs €80.
+
+===By ferry===
+There is a direct fast ferry line from Dubrovnik to Kotor organised by [https://www.adriatic-lines.com Adriatic Lines]{{Dead link|date=December 2024 |bot=InternetArchiveBot }}. It runs daily from Dubrovnik to Kotor or Budva, mainly in the high season. The duration of the voyage is three hours and this is a good way to avoid road congestion at the border crossing and for the Kamenari ferry.
+
+===By bus===
+Kotor is fairly well connected with neighboring countries by bus.
+* {{go
+| name=Bus station | alt=Autobuska stanica | url=http://www.autobuskastanicakotor.me | email=autoboka@t-com.me
+| address= | lat=42.4194807 | long=18.7699968 | directions=5-minute walk from the old town, on the road towards [[Budva]] (look for the old tall chimney!)
+| phone=+382 32 325 809 | tollfree=
+| hours=Daily 06:00 - 22:00 | price=
+| lastedit=2017-04-08
+| content=Bus times and frequency varies greatly seasonally. Check the schedule online. Ticket sale, shops, restaurant, ATM, taxi.
+}}
+
+[[Image:Bus_timetables_from_Kotor,_April_2026.jpeg|thumb|Bus timetables from Kotor bus station, April 2026]]
+
+From [[Budva]] buses run to [[Herceg Novi]], stopping in Kotor, almost every 30 minutes from 07:00 to 23:00 (€2.50). Buses also run between Kotor and the following cities: [[Podgorica]] hourly, {{EUR|7.50}} (Sept. 2022), [[Bar]] and [[Ulcinj]] (6-8 daily, approximately €5), [[Dubrovnik]] and [[Mostar]] (3 daily, 3 hours, €24 Sep 2022), [[Split]] (3 times a week, 7 hours), [[Sarajevo]] (1x daily), [[Belgrade]] (10 hours), [[Skopje]] (night bus, 12 hours, twice a week on Friday and Saturday at 19:00). During the week you can go to [[Skopje]] via [[Nis]], [[Serbia]] (bus from Kotor to [[Tivat]] at 15:50, from [[Tivat]] to [[Nis]] 17:30). The 11:00 bus to [[Mostar]] costs €26 plus a euro per bag and takes 9 hours, as it visits almost every major town in Montenegro and southern Respublika Srpska before finally arriving in Mostar.
+
+There are also small public buses (colored in white with blue sign "Blue Line") that run through the city connecting nearby villages and towns. You can stop them at any bus stop inside Kotor. They also go to [[Tivat]] along the coast line passing [[Muo]], [[Prcanj]], and they also reach the beautiful [[Perast]]. Price based on distance.
+
+===By car===
+All roads in Montenegro are two-lanes only, and mostly are curvy mountainous roads, so speeds over 70&nbsp;km/h (43&nbsp;mph) are rarely legal or safe.
+
+The Vrmac tunnel significantly shortens the journey from Budva to Kotor. You can take the alternative road over Trojica hill above Kotor, a winding mountain road. From this hill you can enjoy beautiful views of the tiny countryside villages, and of Podgorica (when approaching from Cetinje), and Kotor Bay.
+
+When driving from Dubrovnik via Herceg Novi, the Kamenari ferry across the narrow mouth of the Bay of Kotor significantly shortens the distance you'll have to drive. The cost is €5 per car; more for larger vehicles. The boats are relatively small, so at busier times you'll likely have to wait for a spot. But if you do drive around the bay, it's beautiful.
+
+When driving in Montenegro, be aware that the locals drive aggressively and think nothing of overtaking across white lines on steep bends. Be careful. There is also a great deal of road building underway and the safety considerations are a less onerous than those in more-developed countries. Don't panic.
+
+As in many places, taxis may or may not have a meter. Be warned that un-metered taxi fares can range widely, especially for English speakers. Taxi drivers often try to cheat tourists. The real taxi price within Kotor and Muo should be below €3. You should discuss the price before entering the taxi.
+
+===By boat===
+
+There aren't any scheduled ferries travelling to Kotor but there are services between Bar and Bari, Italy except during winter.
+
+==Get around==
+{{Mapframe|42.4255|18.7694|zoom=14}}
+[[File:Cytadela w obrębie murów miejskich w Kotorze 01.jpg|thumb|The city walls and mountains beyond]]
+===On foot===
+Kotor is small, so everything is within walking distance. Enter the old town via any of the three gates, then explore the maze of narrow lanes between the stone houses.
+
+===By taxi===
+Neither Uber nor Bolt service the area as of April 2023.
+
+===By car===
+Parking space in the city centre is hard to find, so use your car only when you have to. Be careful where you park, sketchy tow operators target tourists around the old city. Find a free parking space away from the old city and then walk.
+
+There are no sandy beaches in Kotor, and water is not of premium quality for swimming. Consider driving to the beautiful Jaz or Trsteno beaches on the Budva Riviera, some 20&nbsp;km from Kotor.
+
+==See==
+
+[[File:Old Town Scene - Kotor - Montenegro - 04.jpg|thumb|right|Old Town]]
+[[Image:KotorTryphon.jpg|thumb|Triphon cathedral]]
+
+* {{see
+| name=St Tryphon's Cathedral | alt= | url= | email=
+| address= | lat=42.4241 | long=18.7719 | directions=Old Town
+| phone= | tollfree=
+| hours= | price=€4
+| wikipedia=Cathedral_of_Saint_Tryphon | wikidata=Q966429
+| content=It was built in the 11th century, and reconstructed after earthquakes. Romanesque-Gothic architecture. Chapel holds the remains of St. Tryphon, the patron saint of Kotor.
+}}
+* {{see
+| name=St Nicolas Church | alt= | url= | email=
+| address= | lat=42.425750 | long=18.770889 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Church_of_St._Nicholas,_Kotor | wikidata=Q26696607
+| content=The biggest Orthodox church in the Old Town.
+}}
+* {{see
+| name=Maritime Museum | alt= | url= | email=
+| address= | lat=42.425200 | long=18.771361 | directions=Old Town
+| phone=+382 32 304720 | tollfree=
+| hours=M-Sa 08:00-20:00; Su 09:00-13:00 | price=€4
+| wikidata=Q16677924
+| content=3 floors of photographs, uniforms, weapons, paintings, and model ships.
+}}
+* {{see
+| name=Castle of San Giovanni | alt=St John's Fortress | url= | email=
+| address= | lat=42.422117 | long=18.774816 | directions=highest point of fortification trail
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2020-05-31
+| content=Ruins of a castle at the top of the trail running along the fortifications of the town. Offers panoramic views of the walled town with the Bay of Kotor in the background.
+}}
+* {{see
+| name=Church of Our Lady of Remedy | alt=Crkva Gospe od Zdravlja | url= | email=
+| address= | lat=42.424286 | long=18.773204 | directions=halfway from town fortification trailhead to the top
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Church of Our Lady of Remedy | wikidata=Q4981066
+| lastedit=2020-05-31
+| content=Church on the slopes of the mountain overlooking Kotor. Built in the 16th century by plague survivors to honor the Holy Mother. Accessed by climbing the trail up the fortifications from the old town.
+}}
+* {{see
+| name=Aquarium Boka | alt= | url=https://www.aquariumboka.ucg.ac.me/en/ | email=aquariumboka@ucg.ac.me
+| address=Put I Bokeljske brigade 68 | lat=42.43616 | long=18.76429 | directions=
+| phone=+382 67 946497 | tollfree=
+| hours=10:00-21:00 daily | price=Adults €10, children (aged 6-18) €6, concessions €7
+| lastedit=2022-09-13
+| content=Small aquarium featuring entirely local marine species. Panel descriptions are in both Montenegrin and English.
+}}
+
+==Do==
+* {{do
+| name=Stroll on the wall around Kotor | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2022-10-01
+| content=This is a nice evening or day walk. Take a rest, enjoy the view or bring some food and drinks.
+}}
+* {{do
+| name=Boat Trips | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=In the middle of the bay there are two islands, {{marker|type=do|name=Sveti Djordje|wikidata=Q1595178}} (''St. George Island'') and {{marker|type=do|name=Gospa od Skrpijela|wikidata=Q1538617}} (''Our Lady of the Rocks''), which are worth seeing and accessible by tourist boats (€15), which leave from outside the old town main gate. It is however much cheaper to first go by bus to [[Perast]] (€1) and then use a water taxi (€5) to get to the islands.
+}}
+
+===Hiking===
+* {{do
+| name=Climb up inside the Fortress | alt= | url= | email=
+| address= | lat=42.423611 | long=18.771944 | directions=
+| phone= | tollfree=
+| hours= | price=€15
+| wikipedia=Fortifications of Kotor | wikidata=Q12907852
+| lastedit=2024-09-21
+| content=The fortifications are some 4.5 km away, directly above the walled city, on almost vertical cliffs. Upon reaching the fortress, you will be rewarded with a view of Kotor and the bay. Entry is advisable only for relatively physically fit people. Pay to use one of several entrances in the old city (near either the north or south gates) to climb up the 1,350 steps along switchbacks. The path is in relatively good shape, although some of the steps are broken. This 365-m ascent may take 30 minutes to 1 hour, depending on your physical capabilities. Ticket gate hours are until 20:00 (earlier in shoulder or off season). They are very strict about the ticket policy. Everyone will be checked, and you must return your ticket stub at a small table upon leaving. If you cannot show a ticket stub or receipt as proof, you will be charged the full price a second time.
+}}
+* {{do
+| name=Climb up outside the Fortress | alt= | url= | email=
+| address= | lat=42.42714 | long=18.77378 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-09-21
+| content=Alternatively, if you wish to skip the €15 and still be rewarded with a similar view, there is a trail behind the old power station, outside the city near the north gate, which runs parallel northeast of the fortifications. To find this trail (see GPS for starting point), exit the old walled city through the north gate, cross the bridge, and continue until the intersection with the main road. Then, make a right turn at the main road and continue walking until you see a small path to the left of the house at the top of the road. Then, take this small path that becomes a trail behind the abandoned power station. The easiest way to navigate this trail is using [https://osmand.net OsmAnd] or Google Maps. After you have reached the cafe that is partially up the mountain using this trail, you can turn right onto a path behind that cafe that will take you to the small abandoned Church of St. George. When you reach the church, look west towards the old city of Kotor to see a small opening (large window) in the fortifications, often with a small ladder.<br /><br />The opening would give you free entrance to the fortifications, but it was closed in July 2023. Nevertheless, it doesn't hurt checking while you are up there. This path is more strenuous than the paid option, and takes longer, so be prepared and bring plenty of water, but you will be rewarded with two cafés up there. The window to the fortress is not closed as of June 2025.
+}}
+* {{do
+| name=Hike to [[Lovćen National Park#Q13424615|Mausoleum of Njegoš]] | alt= | url= | email=
+| address= | lat=42.399722 | long=18.8375 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2023-07-13
+| content=This is a full-day hike continuing further outside of the fortification, passing a zip-line, a nice little restaurant half-way, and into [[Lovćen National Park]]. Just 13 km, but from 0 m to 1,700 m of elevation.
+}}
+
+==Buy==
+
+Old town has many boutiques. There is an open market just outside the old town; there you can buy fresh vegetables, sunglasses and many other things.
+
+There are abundant banks and ATMs throughout the ''Stari Grad''. Banks are closed on Sunday or holidays. Travellers cheques are generally not accepted, not even by banks. Note that not all restaurants or shops accept credit cards, either.
+
+==Eat==
+At the market, try to sample local smoked ham (''njeguški pršut'') and cheese (''njeguški sir'') from the nearby village of Njeguši, which are two of the Montenegrin cuisine's most famous products.
+
+Kotor offers a variety ranging from classy restaurants offering fresh seafood and national cuisine to fast food offering pizzas, barbecue, etc. There is a large produce market outside the city walls. Hamburgers there cost €1. Cafes and restaurants line the bay-side promenade, which stretches north through [[Dobrota]].
+
+===Budget===
+* {{eat
+| name=Forza | url= | email=
+| address= | lat= | long= | directions=near the clock tower
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The most popular pastry shop in Kotor.
+}}
+* {{eat
+| name=Pizzeria Pronto | alt=Пиззериа Пронто | url=https://www.facebook.com/Caffe-Pizzeria-Pronto-344435836209301/ | email=
+| address= | lat= | long= | directions=in the Stari Grad on the path to the Cathedral of Saint Tryphon
+| phone=+382 67 991 666 | tollfree=
+| hours= | price=
+| lastedit=2022
+| content=When you're ready for that big slice, come here and get one for €3.
+}}
+* {{eat
+| name=Fish Grill | url=https://fish-grill-kotor.business.site/ | email=
+| address= | lat= | long= | directions=Located one street above Kotor beach, on the main road in the residential area. Five minutes from Shopping Centre Kamelija by walking north.
+| phone= | tollfree= | fax=
+| hours=Closed on Sunday | price=Less than €10 for one meal
+| content=Fresh fish and seafood cooked to order. Take away only. Various side dishes available, such as seafood risotto and fries/chips. Highly advisable to order in advance for the ''next'' day because quantities are very limited and might not be available if you show up without an advance order.
+}}
+* {{eat
+| name=Sladoja Mesara Meat Shop & Grill | url=https://sladoja.business.site/ | email=
+| address= | lat= | long= | directions=south of the walled city, on the main road between the old city and the bus station
+| phone= | tollfree= | fax=
+| hours=Closed on Sunday | price=Less than €5 for one meal
+| lastedit=2022
+| content=Butcher shop with fresh meats cooked to order. Take away only. Various sides available, including grilled vegetables and fries/chips. Two grilled skewers with meat and vegetables for €3.
+}}
+* {{eat
+| name=Pizzeria "POCUO" | url= | email=
+| address= | lat= | long= | directions=north of the walled city, on the main road opposite from Shopping Centre Kamelija
+| phone= | tollfree= | fax=
+| hours= | price=Dish of the day for less than €5
+| content=Pizzeria attached to hotel serving various other local and Italian dishes. Very friendly service and pleasant dining area.
+}}
+
+===Mid-range===
+* {{eat
+| name=Tanjga | alt= | url= | email=
+| address= | lat= | long= | directions=at the roundabout, halfway between the bus station and old town
+| phone= | tollfree= | fax=
+| hours= | price=€4-15
+| content=Family-run butcher and restaurant, massive amounts of grilled meats and great service
+}}
+* {{eat
+| name=Bastion Restaurant | alt= | url= | email=
+| address= | lat= | long= | directions=near St. Mary's church
+| phone=+382 32 322116 | tollfree= | fax=
+| hours= | price=€6-30
+| content=Busy lunchtime venue. Great fish.
+}}
+* {{eat
+| name=Cesarica | url= | email=
+| address= | lat= | long= | directions=close to Hotel Marja in the Old Town
+| phone= | tollfree= | fax=
+| hours= | price=main dishes from €5-15
+| content=Serves excellent and cheap Dalmatian food. Try the cuttlefish risotto.
+}}
+* {{eat
+| name=Forza Mare | alt= | url= | email=
+| address=Dobrota | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Seaside restaurant and hotel, outside of Kotor
+}}
+* {{eat
+| name=Babilon restaurant and hotel | alt= | url= | email=
+| address=Dobrota | lat= | long= | directions=next door to the Hotel Forza Mare (i.e. a few steps north)
+| phone= | tollfree=
+| hours= | price=
+| content=Affordable prices, dining on the Boka Kotorska Bay and a first-class seafood menu.
+}}
+
+==Drink==
+
+Again, the old town is the hotspot for relaxed drinking [[coffee|espresso]] in the shade of the medieval walls. There are many cafes in the old town, but still, it's hard to find a place to sit on a sunny day. [[Tipping]] is not necessary although you may leave your change by simply rounding up. Befriending the waitstaff can get you quite far.
+
+Espresso costs €2E or more. [[Soft drinks]] and juice cost €3-4
+
+Sample the Montenegrin wines, "Vranac", "Pro Corde", "Krstac", "Cabernet", "Chardonnay" and "Nikšićko" beer. Montenegrin brandy, called "rakija" is a good choice to "warm up" before going out in the evening, especially grape brandy "Montenegrin loza", "Prvijenac" or "Kruna". Litre bottles of wine are available in the supermarkets outside of the ''Stari Grad'' for under €5.
+
+===Nightlife===
+
+A [[nightlife|night out]] in Kotor usually begins in the open bars in the old town. Pubs in the old town are only open until 01:00.
+
+The best club is Maximus, which is located in the old town, and closes at 05:00.
+
+==Sleep==
+
+Accommodation during low season is cheap and plentiful in Kotor.
+
+During the high season, the old city may be very crowded due to frequent arrivals of cruise ships and visitors on day trips from other cities. For that reason, it may be preferable to stay outside of the old city, either north or south.
+
+===Private rooms===
+Many of the homes in the ''Stari Grad'' have been turned into for-rent apartments. For groups of two or more, these are often the most affordable options. Their quality (and prices) range from luxurious to modest. Most can be reserved online, although wire-transfer down payments are expected. Most are either owned or managed by English-speaking expats foreign visitors.
+
+During summer, expect to pay about €10 per person for accommodation at a private residences in the old town, and €7-15 outside the old town and closer to beaches.
+
+===Hostels===
+* {{sleep
+| name=Old Town Kotor Hostel | alt= | url=http://www.hostel-kotor.me/ | email=
+| address=Stari Grad 284 | lat= | long= | directions=near Cultural Center
+| phone=+382 32 325 317 | tollfree=
+| checkin= | checkout= | price=Dorm bed: €30
+| content=Once owned by a local noble family, Bisanti, the Old Town Hostel Kotor's careful restoration and design offer historic Kotor's rustic atmosphere.
+}}
+* {{sleep
+| name=Montenegro Hostel B&B Kotor | alt= | url=https://montenegrohostel.com/accommodation/montenegro-hostel-kotor | email=
+| address=Stari Grad Kotor 333 | lat= | long= | directions=on western side of old town of Kotor 100 m from Sea Gate just past Hotel Vardar
+| phone=+382 69 039 751 | tollfree=
+| checkin= | checkout= | price=From €8
+| lastedit=2021-03-16
+| content=Accommodating hostel with communal cooking area and tours of Kotor offered.
+}}
+
+===Hotels===
+* {{sleep
+| name=Boutique Hotel Casa del Mare - Amfora | alt=Kotor Bay Orahovac | url=https://casadelmare.me/ | email=
+| address=Orahovac bb | lat= | long= | directions=6 km from Perast
+| phone=+382 32 305 857 | tollfree= | fax=+382 32 305 852
+| checkin=24 hr | checkout=12:00 | price=€30-99
+| content=Hotel has 4 stars, with a private beach, sauna and fish restaurant. Open 24 hours and all 365 days a year. The hotel is on the beach in Orahovac. Quiet rooms with seaview overlooking the bay.
+}}
+* {{sleep
+| name=Cattaro Hotel | alt= | url=http://www.cattarohotel.com | email=
+| address=420 Square of the Arms | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=€90-150
+| content=A historic hotel and a member of the Historic Hotels of Europe.
+}}
+* {{sleep
+| name=Forza Mare | alt= | url=https://forzahotels.com/forza-mare/ | email=
+| address=Kriva ulica bb | lat= | long= | directions=
+| phone=+382 32 333 500 | tollfree=
+| checkin= | checkout= | price=$166
+| content=A small 5-star hotel in Dobrota.
+}}
+* {{sleep
+| name=Hotel Marija | alt= | url=https://www.facebook.com/Hotel-Marija-1761008644159988/about/ | email=
+| address=Ulica 1 | lat= | long= | directions=Old City
+| phone=+382 32 325062 | tollfree=
+| checkin= | checkout= | price=Single €44; double €63
+| content=Boutique hotel.
+}}
+* {{sleep
+| name=Hotel Vardar | alt= | url=http://www.hotelvardar.com | email=
+| address= | lat= | long= | directions=on Trg Od Oružja Square
+| phone=+382 32 325 084 | tollfree=
+| checkin= | checkout= | price=Single €100; double €200
+| content=Old Yugoslavian design.
+}}
+
+== Connect ==
+As of Sep 2021, Kotor has 4G from all Montenegro carriers, and Wifi is widely available. 5G has not rolled out in Montenegro.
+
+==Go next==
+* [[Prčanj]] - a hamlet 4&nbsp;km away.
+* [[Budva]] - a popular tourist destination
+* [[Bar]] - a city and biggest port of Montenegro
+* [[Tivat]] - home to a marina for the elite's yachts
+* [[Herceg Novi]]
+* [[Cetinje]], interior old capital of Montenegro
+* [[Lovćen National Park]]
+* Daytrip to bay-side towns, like [[Perast]] (18&nbsp;km away) or [[Risan]].
+* Visit beaches a half-hour's drive from Kotor (Jaz, Trsteno, Plavi hori).
+
+{{routebox
+| image1=Wegschild Montenegro E-80.svg
+| imagesize1=35
+| directionl1=W
+| majorl1=[[Herceg Novi]]
+| minorl1=[[Perast]]
+| directionr1=E
+| majorr1=[[Podgorica]]
+| minorr1='''[[Budva]]'''
+}}
+
+{{isPartOf|Bay of Kotor}}
+{{usablecity}}
+{{Geo|42.43|18.77}}
