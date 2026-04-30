@@ -14,4 +14,9 @@ features based on the their description:
 
 Each feature is scored between 1 to 10, except for the two cost features, which
 represent an average amount per day.
+
+If the user specifies a particular city, estimate the features for this city. If
+multiple cities, then estimate average scores for all the cities. If just a
+country is specified, then pick a popular travel destination from that country
+and estimate its feature scores.
 """

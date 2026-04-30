@@ -32,10 +32,10 @@ async def parse(
         A `DestinationFeatures` object estimating the feature scores for the
         user's described location.
     """
-    response = await llm.call(
+    response = await llm.call_structured(
         request.text,
-        system_prompt=PARSE_SYSTEM_PROMPT,
         response_model=DestinationFeatures,
+        system_prompt=PARSE_SYSTEM_PROMPT,
     )
 
     return DestinationFeatures.model_validate_json(response)

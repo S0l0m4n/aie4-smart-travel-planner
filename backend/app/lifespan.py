@@ -53,7 +53,7 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     settings = get_settings()
     configure_logging(level=settings.log_level, json_output=settings.log_json)
     log = get_logger(__name__)
-    log.info("startup", cheap_model=settings.cheap_model_name, strong_model=settings.strong_model_name)
+    log.info("startup", provider=settings.llm_provider, model=settings.model_name())
 
     # Build collaborators
     llm = LLMService(settings)

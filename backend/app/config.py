@@ -42,7 +42,7 @@ class Settings(BaseSettings):
 
     gemini_model: str = "gemini-2.5-flash"
     openai_model: str = "gpt-4o-mini"
-    groq_model: str = "llama-3.1-8b-instant"
+    groq_model: str = "openai/gpt-oss-20b"
 
     database_url: str = ""
     api_key: str = ""

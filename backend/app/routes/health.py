@@ -5,7 +5,7 @@ from typing import Annotated
 
 from fastapi import APIRouter, Depends
 
-from app.config import Settings
+from app.config import Settings, get_settings
 from app.deps import get_settings_dep
 
 router = APIRouter(tags=["health"])
@@ -16,6 +16,5 @@ async def health_check(settings: Annotated[Settings, Depends(get_settings_dep)])
     return {
         "status": "healthy",
         "llm_provider": settings.llm_provider,
-        "cheap_model": settings.cheap_model_name,
-        "strong_model": settings.strong_model_name,
+        "model": settings.model_name()
     }
