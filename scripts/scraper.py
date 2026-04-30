@@ -11,14 +11,22 @@ DESTINATIONS = {
 OUTPUT_DIR = Path("data/raw_wikivoyage")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+HEADERS = {
+    "User-Agent": "SmartTravelPlannerBot/1.0 (educational project)"
+}
+
 BASE_URL = "https://en.wikivoyage.org/wiki/Special:Export"
 
 def fetch_and_save(destination: str):
-    resp = httpx.get(f"{BASE_URL}/{destination}", timeout=15)
+    resp = httpx.get(f"{BASE_URL}/{destination}", timeout=15, headers=HEADERS)
     resp.raise_for_status()
 
     root = ET.fromstring(resp.text)
-    ns = {"mw": "http://www.mediawiki.org/xml/export-0.10/"}
+    # Extract namespace from root tag (e.g. {http://www.mediawiki.org/xml/export-0.11/}mediawiki)
+    print(root)
+    print(root.tag)
+    raw_ns = root.tag.split("}")[0].lstrip("{") if "}" in root.tag else ""
+    ns = {"mw": raw_ns}
     text_el = root.find(".//mw:text", ns)
 
     if text_el is None or not text_el.text:
