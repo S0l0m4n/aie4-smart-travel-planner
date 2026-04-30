@@ -15,6 +15,7 @@ router = APIRouter(tags=["health"])
 async def health_check(settings: Annotated[Settings, Depends(get_settings_dep)]) -> dict:
     return {
         "status": "healthy",
+        "llm_provider": settings.llm_provider,
         "cheap_model": settings.cheap_model_name,
         "strong_model": settings.strong_model_name,
     }

@@ -1,6 +1,11 @@
 """FastAPI lifespan: build singletons on startup, dispose on shutdown."""
 from __future__ import annotations
 
+import os
+
+# Silence Hugging Face network lookups
+os.environ["HF_HUB_OFFLINE"] = "1"
+
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 from dataclasses import dataclass
@@ -38,9 +43,12 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     log.info("startup", cheap_model=settings.cheap_model_name, strong_model=settings.strong_model_name)
 
     engine = create_async_engine(settings.database_url, echo=False)
-    async with engine.begin() as conn:
-        await conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
-        await conn.run_sync(Base.metadata.create_all)
+    try:
+        async with engine.begin() as conn:
+            await conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
+            await conn.run_sync(Base.metadata.create_all)
+    except ConnectionRefusedError:
+        log.error("Couldn't connect to the database, have you started the Postgres service?")
     session_factory = async_sessionmaker(engine, expire_on_commit=False)
 
     classifier = joblib.load(_CLASSIFIER_PATH)

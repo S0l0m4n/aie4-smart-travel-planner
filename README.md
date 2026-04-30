@@ -24,6 +24,21 @@ Components
 8. **Webhook delivery:** Send the trip plan to a real channel, e.g. Discord, Slack, email.
 9. **Docker:** Containerise the whole stack (frontend, backend, Postgres database).
 
+Setup
+-----
+Install Python virtual environment:
+```
+uv sync
+source .venv/bin/activate
+```
+(To end the session, run `deactivate` or just kill the terminal.)
+
+To run the FastAPI server:
+```
+cd backend
+uv run uvicorn main:app --reload --host 0.0.0.0 --port 8000
+```
+
 Dataset
 -------
 ### Classifying features
