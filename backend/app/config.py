@@ -10,10 +10,11 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Literal
 
-from pydantic import model_validator
+from pydantic import Field, model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
-_ENV_FILE = Path(__file__).resolve().parents[2] / ".env"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+_ENV_FILE = PROJECT_ROOT / ".env"
 
 
 class Settings(BaseSettings):
@@ -39,9 +40,9 @@ class Settings(BaseSettings):
     # ensures the matching credential block is also populated.
     llm_provider: Literal["gemini", "openai", "groq"] = "groq"
 
-    gemini_model = "gemini-2.5-flash"
-    openai_model = "gpt-4o-mini"
-    groq_model = "llama-3.1-8b-instant"
+    gemini_model: str = "gemini-2.5-flash"
+    openai_model: str = "gpt-4o-mini"
+    groq_model: str = "llama-3.1-8b-instant"
 
     database_url: str = ""
     api_key: str = ""
@@ -53,6 +54,7 @@ class Settings(BaseSettings):
     ml_model_path: Path = Path("app/ml/classifier.joblib")
 
     # --- runtime -----------------------------------------------------
+    llm_request_timeout_seconds: int = 10
 
     # --- safety ------------------------------------------------------
 
@@ -67,8 +69,8 @@ class Settings(BaseSettings):
     # files no matter what the current working directory is.
     knowledge_data_path: Path = Field(
         default=PROJECT_ROOT / "data" / "raw-wikivoyage",
-        description="Path to the scraped data from Wikivoyage on various
-        destinations, stored as text files."
+        description="Path to the scraped data from Wikivoyage on various "
+        "destinations, stored as text files."
     )
 
     # -----------------------------------------------------------------

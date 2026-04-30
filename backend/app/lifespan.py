@@ -9,12 +9,13 @@ os.environ["HF_HUB_OFFLINE"] = "1"
 from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 from dataclasses import dataclass
-import joblib
 from fastapi import FastAPI
-from langchain_groq import ChatGroq
-from sentence_transformers import SentenceTransformer
+
 from sqlalchemy import text
 from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine
+
+from langchain_groq import ChatGroq
+from sentence_transformers import SentenceTransformer
 
 from app.agent.runner import TravelAgentRunner
 from app.config import Settings, get_settings
@@ -37,7 +38,7 @@ class AppState:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncIterator[None]:
-   """Startup/shutdown context for the FastAPI application.
+    """Startup/shutdown context for the FastAPI application.
 
     Yields control back to FastAPI once initialisation is done; the code
     after the `yield` runs when the server is shutting down (e.g. SIGTERM

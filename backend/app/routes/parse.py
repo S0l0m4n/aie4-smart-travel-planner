@@ -2,12 +2,14 @@ import json
 import logging
 import time
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Depends
+from typing import Annotated
 
-import app.llm as llm
+from app.deps import get_llm
 from app.prompts.parse import PARSE_SYSTEM_PROMPT
 from app.schemas.chat import ChatRequest
 from app.schemas.classify import DestinationFeatures
+from app.services.llm import LLMService
 
 logger = logging.getLogger(__name__)
 
@@ -19,7 +21,7 @@ async def parse(
         request: ChatRequest,
         llm: Annotated[LLMService, Depends(get_llm)]
         ) -> DestinationFeatures:
-    """Extrace the features specifying the user's description of their ideal
+    """Extract the features specifying the user's description of their ideal
     travel destination.
 
     Args:

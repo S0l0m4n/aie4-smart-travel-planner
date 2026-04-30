@@ -1,7 +1,7 @@
 import numpy as np
 from pydantic import BaseModel, Field
 
-from app.schemas import DestinationFeatures
+from app.schemas.classify import DestinationFeatures
 
 FEATURE_ORDER = [
     "hiking_score",

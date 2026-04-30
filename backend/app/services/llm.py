@@ -68,7 +68,7 @@ class LLMService:
                 api_key=self._settings.api_key,
                 timeout=timeout,
             )
-        elif self.provider == "groq":
+        elif self._provider == "groq":
             from groq import AsyncGroq
 
             self._groq = AsyncGroq(api_key=self._settings.api_key)
@@ -268,12 +268,11 @@ class LLMService:
     # -- Groq ---------------------------------------------------------
     async def _call_groq(self, user_prompt: str, system_prompt: str) -> str:
         """Plain-text completion via Groq API."""
-        msgs = _chat_messages(user_prompt, system_prompt)
 
         # Azure uses the deployment name in place of OpenAI's model id.
         resp = await self._groq.chat.completions.create(
+            messages=_chat_messages(user_prompt, system_prompt),
             model=self._settings.groq_model,
-            messages=msgs,
             temperature=0.3,
         )
         return resp.choices[0].message.content
@@ -283,19 +282,17 @@ class LLMService:
         self, user_prompt: str, response_model: type[BaseModel], system_prompt: str
     ) -> BaseModel:
         """Groq structured output via the use of `json_schema`."""
-        msgs = _chat_messages(user_prompt, system_prompt)
-
         kwargs = dict(
             messages=_chat_messages(user_prompt, system_prompt),
             model=self._settings.groq_model,
             temperature=0.3,
-            response_format=dict(
+            response_format={
                 "type": "json_schema",
                 "json_schema": {
                     "name": response_model.__name__,
                     "schema": response_model.model_json_schema(),
                 },
-            )
+            }
         )
 
         resp = await self._groq.chat.completions.create(**kwargs)

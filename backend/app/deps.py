@@ -24,7 +24,7 @@ def get_llm(state: Annotated[AppState, Depends(get_app_state)]) -> LLMService:
 
 
 def get_registry(state: Annotated[AppState, Depends(get_app_state)]) -> ToolRegistry:
-    return state.registryo
+    return state.registry
 
 
 def get_runner(state: Annotated[AppState, Depends(get_app_state)]) -> TravelAgentRunner:
