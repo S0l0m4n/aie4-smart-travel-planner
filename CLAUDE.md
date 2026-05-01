@@ -17,6 +17,8 @@ Never end a code file, e.g. `*.py`, with an empty line (but add a newline charac
 
 Do not run any script without expicit permission first. In particular, do not run any script that you just coded; let me review it first outside of our chat.
 
+Do not delete existing comments when editing code, just edit the comments if necessary.
+
 ---
 
 ### Project-Specific Rules
