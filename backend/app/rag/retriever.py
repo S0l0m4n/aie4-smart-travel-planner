@@ -11,9 +11,14 @@ async def retrieve_chunks(
     embedding = embed_model.encode(query).tolist()
     result = await session.execute(
         text("""
-            SELECT destination_name, content, source,
-                   embedding <=> CAST(:embedding AS vector) AS distance
-            FROM documents
+            WITH best_per_destination AS (
+                SELECT DISTINCT ON (destination_name)
+                       destination_name, content, source,
+                       embedding <=> CAST(:embedding AS vector) AS distance
+                FROM documents
+                ORDER BY destination_name, distance
+            )
+            SELECT * FROM best_per_destination
             ORDER BY distance
             LIMIT :k
         """),
