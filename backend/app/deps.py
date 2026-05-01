@@ -4,11 +4,13 @@ from __future__ import annotations
 from typing import Annotated
 
 from fastapi import Depends, Request
+from sentence_transformers import SentenceTransformer
 
 from app.agent.runner import TravelAgentRunner
 from app.config import Settings
 from app.lifespan import AppState
 from app.ml.model import MLClassifier
+from app.services.llm import LLMService
 from app.tools.registry import ToolRegistry
 
 
@@ -34,3 +36,7 @@ def get_registry(state: Annotated[AppState, Depends(get_app_state)]) -> ToolRegi
 
 def get_runner(state: Annotated[AppState, Depends(get_app_state)]) -> TravelAgentRunner:
     return state.runner
+
+
+def get_embed_model(state: Annotated[AppState, Depends(get_app_state)]) -> SentenceTransformer:
+    return state.embed_model

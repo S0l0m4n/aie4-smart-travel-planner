@@ -68,7 +68,7 @@ class Settings(BaseSettings):
     # Defaults are derived from PROJECT_ROOT so the app finds its data
     # files no matter what the current working directory is.
     knowledge_data_path: Path = Field(
-        default=PROJECT_ROOT / "data" / "raw-wikivoyage",
+        default=PROJECT_ROOT / "data" / "raw_wikivoyage",
         description="Path to the scraped data from Wikivoyage on various "
         "destinations, stored as text files."
     )

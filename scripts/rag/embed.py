@@ -1,13 +1,13 @@
-"""Chunk and embed Wikivoyage text files, then insert into the documents table.
+"""Chunk and embed Wikivoyage text files, insert into the documents table.
 
-Place plain-text files in data/wikivoyage/<DestinationName>.txt, then run:
-    python scripts/embed.py
+Place wikitext files in data/raw_wikivoyage/<DestinationName>.txt, then run:
+    python scripts/rag/embed.py [--strategy fixed|sections]
 
-Each filename (minus .txt) becomes the destination_name in the DB.
-Run once to populate the database; it is safe to re-run (inserts are cumulative).
+Run once to populate; safe to re-run (inserts are cumulative, not deduplicated).
 """
 from __future__ import annotations
 
+import argparse
 import asyncio
 import sys
 from pathlib import Path
@@ -16,40 +16,29 @@ from sentence_transformers import SentenceTransformer
 from sqlalchemy import text
 from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "backend"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "backend"))
 
 from app.config import get_settings
 from app.database import Base
 from app.logging_config import configure_logging, get_logger
-import app.models  # noqa: F401
+import app.models  # noqa: F401 — registers ORM models with Base.metadata
 
-WIKIVOYAGE_DIR = Path(__file__).resolve().parents[1] / "data" / "wikivoyage"
-CHUNK_SIZE = 800
-CHUNK_OVERLAP = 100
+from chunker import chunk_by_sections, chunk_fixed
 
 
-def _chunk_text(text: str) -> list[str]:
-    chunks = []
-    start = 0
-    while start < len(text):
-        chunks.append(text[start : start + CHUNK_SIZE].strip())
-        start += CHUNK_SIZE - CHUNK_OVERLAP
-    return [c for c in chunks if len(c) >= 50]
-
-
-async def main() -> None:
+async def main(strategy: str) -> None:
     settings = get_settings()
     configure_logging(level=settings.log_level, json_output=False)
     log = get_logger(__name__)
 
-    if not WIKIVOYAGE_DIR.exists():
-        log.error("wikivoyage_dir.missing", path=str(WIKIVOYAGE_DIR))
-        log.info("hint", message="Create data/wikivoyage/ and add <DestinationName>.txt files")
+    wikivoyage_dir = settings.knowledge_data_path
+    if not wikivoyage_dir.exists():
+        log.error("wikivoyage_dir.missing", path=str(wikivoyage_dir))
         return
 
-    txt_files = sorted(WIKIVOYAGE_DIR.glob("*.txt"))
+    txt_files = sorted(wikivoyage_dir.glob("*.txt"))
     if not txt_files:
-        log.warning("no_files_found", path=str(WIKIVOYAGE_DIR))
+        log.warning("no_files_found", path=str(wikivoyage_dir))
         return
 
     engine = create_async_engine(settings.database_url, echo=False)
@@ -65,9 +54,17 @@ async def main() -> None:
     async with session_factory() as session:
         for txt_file in txt_files:
             destination_name = txt_file.stem
-            chunks = _chunk_text(txt_file.read_text(encoding="utf-8"))
+            raw_text = txt_file.read_text(encoding="utf-8")
+            chunks = (
+                chunk_by_sections(raw_text)
+                if strategy == "sections"
+                else chunk_fixed(raw_text)
+            )
+            if not chunks:
+                log.warning("no_chunks", destination=destination_name)
+                continue
             embeddings = embed_model.encode(chunks, batch_size=32, show_progress_bar=False)
-            log.info("embedding", destination=destination_name, chunks=len(chunks))
+            log.info("embedding", destination=destination_name, chunks=len(chunks), strategy=strategy)
             for chunk, embedding in zip(chunks, embeddings):
                 await session.execute(
                     text("""
@@ -85,8 +82,16 @@ async def main() -> None:
         await session.commit()
 
     await engine.dispose()
-    log.info("embed.complete", total_chunks=total, destinations=len(txt_files))
+    log.info("embed.complete", total_chunks=total, destinations=len(txt_files), strategy=strategy)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    parser = argparse.ArgumentParser(description="Embed Wikivoyage data into Postgres/pgvector.")
+    parser.add_argument(
+        "--strategy",
+        choices=["fixed", "sections"],
+        default="fixed",
+        help="fixed: overlapping fixed-size chunks (default); sections: split on wikitext/markdown headings",
+    )
+    args = parser.parse_args()
+    asyncio.run(main(args.strategy))
