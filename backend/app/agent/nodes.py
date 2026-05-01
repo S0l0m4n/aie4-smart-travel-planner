@@ -13,7 +13,7 @@ from pydantic import BaseModel, Field
 
 from app.logging_config import get_logger
 from app.retries import llm_retry
-from app.tools.classifier import DestinationFeatures, classify_travel_style
+#from app.tools.classifier import DestinationFeatures, classify_travel_style
 from app.tools.rag import retrieve_chunks
 
 log = get_logger(__name__)

@@ -8,6 +8,7 @@ from fastapi import Depends, Request
 from app.agent.runner import TravelAgentRunner
 from app.config import Settings
 from app.lifespan import AppState
+from app.ml.model import MLClassifier
 from app.tools.registry import ToolRegistry
 
 
@@ -21,6 +22,10 @@ def get_settings_dep(state: Annotated[AppState, Depends(get_app_state)]) -> Sett
 
 def get_llm(state: Annotated[AppState, Depends(get_app_state)]) -> LLMService:
     return state.llm
+
+
+def get_classifier(state: Annotated[AppState, Depends(get_app_state)]) -> MLClassifier:
+    return state.classifier
 
 
 def get_registry(state: Annotated[AppState, Depends(get_app_state)]) -> ToolRegistry:

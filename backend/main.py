@@ -4,7 +4,7 @@ from __future__ import annotations
 from fastapi import FastAPI
 
 from app.lifespan import lifespan
-from app.routes import chat, health, parse
+from app.routes import chat, classify, health, parse
 
 app = FastAPI(
     title="Smart Travel Planner",
@@ -15,3 +15,4 @@ app = FastAPI(
 app.include_router(health.router)
 app.include_router(chat.router, prefix="/api")
 app.include_router(parse.router, prefix="/api")
+app.include_router(classify.router, prefix="/api")

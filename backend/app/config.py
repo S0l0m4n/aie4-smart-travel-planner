@@ -51,7 +51,7 @@ class Settings(BaseSettings):
     strong_model_name: str = "llama-3.3-70b-versatile"
 
     # --- ML model ----------------------------------------------------
-    ml_model_path: Path = Path("app/ml/classifier.joblib")
+    ml_model_path: Path = PROJECT_ROOT / "backend" / "app" / "ml" / "classifier.joblib"
 
     # --- runtime -----------------------------------------------------
     llm_request_timeout_seconds: int = 10

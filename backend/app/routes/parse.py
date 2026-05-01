@@ -1,9 +1,7 @@
-import json
 import logging
-import time
-
-from fastapi import APIRouter, Body, Depends, HTTPException
 from typing import Annotated
+
+from fastapi import APIRouter, Body, Depends
 
 from app.deps import get_llm
 from app.prompts.parse import PARSE_SYSTEM_PROMPT
@@ -15,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 router = APIRouter(tags=["parse"])
 
-EXAMPLES = {
+PARSE_EXAMPLES = {
     "beach_holiday": {
         "value": {
             "text": "I want to go somewhere cheap, a bit isolated and with "
@@ -36,26 +34,19 @@ EXAMPLES = {
     },
 }
 
-@router.post("/parse", response_model=DestinationFeatures)
-async def parse(
-        request: Annotated[ChatRequest, Body(openapi_examples=EXAMPLES)],
-        llm: Annotated[LLMService, Depends(get_llm)],
-        ) -> DestinationFeatures:
-    """Extract the features specifying the user's description of their ideal
-    travel destination.
 
-    Args:
-        request: User input text (`ChatRequest` type)
-        llm: Injected shared `LLMService`
-
-    Returns:
-        A `DestinationFeatures` object estimating the feature scores for the
-        user's described location.
-    """
+async def parse_features(text: str, llm: LLMService) -> DestinationFeatures:
     response = await llm.call_structured(
-        request.text,
+        text,
         response_model=DestinationFeatures,
         system_prompt=PARSE_SYSTEM_PROMPT,
     )
-
     return DestinationFeatures.model_validate_json(response)
+
+
+@router.post("/parse", response_model=DestinationFeatures)
+async def parse(
+        request: Annotated[ChatRequest, Body(openapi_examples=PARSE_EXAMPLES)],
+        llm: Annotated[LLMService, Depends(get_llm)],
+        ) -> DestinationFeatures:
+    return await parse_features(request.text, llm)

@@ -19,6 +19,7 @@ from sentence_transformers import SentenceTransformer
 
 from app.agent.runner import TravelAgentRunner
 from app.config import Settings, get_settings
+from app.ml.model import MLClassifier
 from app.database import Base
 from app.logging_config import configure_logging, get_logger
 import app.models  # noqa: F401 — registers models with Base.metadata
@@ -34,6 +35,7 @@ class AppState:
     settings: Settings
     llm: LLMService
     registry: ToolRegistry
+    classifier: MLClassifier
 
 
 @asynccontextmanager
@@ -58,8 +60,9 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     # Build collaborators
     llm = LLMService(settings)
     registry = ToolRegistry.build(settings)
+    classifier = MLClassifier(settings.ml_model_path)
 
-    app.state.app_state = AppState(settings=settings, llm=llm, registry=registry)
+    app.state.app_state = AppState(settings=settings, llm=llm, registry=registry, classifier=classifier)
 
     log.info("startup.complete")
     try:
