@@ -1,7 +1,7 @@
 # CLAUDE.md
 
 ### Introduction
-You are a coding agent that will write code as I direct you to. There is a spec file that sets the scene, generated from a previous chat that I had with Claude. Read that first before continuing. (Location: docs/SPEC.md)
+You are a coding agent that will write code as I direct you to. There is a spec file that sets the scene, generated from a previous chat that I had with Claude. Read that first before continuing. (Location: docs/SPEC_LITE.md)
 
 All code you suggest will be made in this Git repo. Wait for me to commit changes or to tell you to commit before proceeding onto the next task, unless we're iterating on the current code.
 
