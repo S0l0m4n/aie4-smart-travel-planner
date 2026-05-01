@@ -12,7 +12,12 @@ import asyncio
 import sys
 from pathlib import Path
 
+# Silence Hugging Face network lookups — model must be pre-cached locally.
+import os
+os.environ["HF_HUB_OFFLINE"] = "1"
+
 from sentence_transformers import SentenceTransformer
+
 from sqlalchemy import text
 from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine
 

@@ -6,14 +6,14 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.database import get_db
 from app.deps import get_embed_model
-from app.tools.rag import retrieve_chunks
+from app.rag.retriever import retrieve_chunks
 
 router = APIRouter(tags=["debug"])
 
 
 class RetrieveRequest(BaseModel):
     query: str = Field(min_length=1, max_length=4000)
-    k: int = Field(default=5, ge=1, le=20)
+    k: int = Field(default=3, ge=1, le=20)
 
 
 class ChunkResult(BaseModel):
